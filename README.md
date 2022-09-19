@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 > 微信公众号：WXGZH743859910
 
-> QQ邮箱：743859910@qq.com
+> QQ邮箱：743859910#qq.com（请自行将 # 更换为 @ ）
 
 > Git：https://git.com/wlc743859910
 
@@ -72,6 +72,21 @@ Here are some ideas to get you started:
 > Facebook：https://facebook.com/wlc743859910
 
 > BiLiBiLi：https://space.bilibili.com/483572106
+
+---
+
+### ✍ 关于我
+
+本人搭上了90后的首班车，来到了这个所谓的21世纪。网络时代的爬虫，熟悉 Typecho、Z-blog、Discuz、PHPwind、WordPress 等开源程序；
+擅长 Ai、Fw、Fl、Br、Ae、Pr、Id、PS 等软件的安装与卸载；
+
+精通 CSS、JavaScript、PHP、C、C＋＋、C#、java、Ruby、Perl、Lisp、python、Objective-C、ActionScript 等单词的拼写；
+
+熟悉 Windows、Linux、Mac、Android、IOS 等系统的开关机；
+
+更是 爱奇艺、优酷、腾讯、拼多多、饿了么、美团 等多家平台VIP会员，其实我也想低调，但实力不允许啊~
+
+对网站建站略懂一二，对电子商务一知半解！
 
 ---
 
