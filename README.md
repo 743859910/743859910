@@ -77,10 +77,13 @@ Here are some ideas to get you started:
 
 ### ✍ 关于我
 
-本人搭上了90后的首班车，来到了这个所谓的21世纪。网络时代的爬虫，熟悉 Typecho、Z-blog、Discuz、PHPwind、WordPress 等开源程序；
+本人搭上了90后的首班车，来到了这个所谓的21世纪。
+
+网络时代的爬虫，熟悉 Typecho、Z-blog、Discuz、PHPwind、WordPress 等开源程序；
+
 擅长 Ai、Fw、Fl、Br、Ae、Pr、Id、PS 等软件的安装与卸载；
 
-精通 CSS、JavaScript、PHP、C、C＋＋、C#、java、Ruby、Perl、Lisp、python、Objective-C、ActionScript 等单词的拼写；
+精通 CSS、JavaScript、PHP、C、C＋＋、C#、java、Ruby、Perl、Lisp、Python、Objective-C、ActionScript 等单词的拼写；
 
 熟悉 Windows、Linux、Mac、Android、IOS 等系统的开关机；
 
