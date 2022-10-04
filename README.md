@@ -49,6 +49,8 @@ Here are some ideas to get you started:
 
 > 微信：WXH743859910
 
+> Steam 好友代码：475963684
+
 > 微信公众号：WXGZH743859910
 
 > QQ邮箱：743859910#qq.com（请自行将 # 更换为 @ ）
@@ -73,19 +75,25 @@ Here are some ideas to get you started:
 
 > Facebook：https://facebook.com/wlc743859910
 
+> Steam 爱好者官网：https://steam.wzsndgk.com/ 规划建设中
+
+> 我的Steam 主页：https://steamcommunity.com/id/wzsndgk/
+
+> 我的Steam 组主页：https://steamcommunity.com/groups/wzsndgk
+
 ---
 
 ### ✍ 关于我
 
 本人搭上了90后的首班车，来到了这个所谓的21世纪。
 
-网络时代的爬虫，熟悉 Typecho、Z-blog、Discuz、PHPwind、WordPress 等开源程序；
+网络时代的爬虫，熟悉 Z-blog、Discuz、PHPwind、Typecho、WordPress 等开源程序；
 
 擅长 Ai、Fw、Fl、Br、Ae、Pr、Id、PS 等软件的安装与卸载；
 
-精通 CSS、JavaScript、PHP、C、C＋＋、C#、java、Ruby、Perl、Lisp、Python、Objective-C、ActionScript 等单词的拼写；
+精通 C、C#、CSS、PHP、java、Lisp、C＋＋、Python、Ruby、Perl、JavaScript、Objective-C、ActionScript 等单词的拼写；
 
-熟悉 Windows、Linux、Mac、Android、IOS 等系统的开关机；
+熟悉 IOS、Mac、Linux、Android、Windows 等系统的开关机；
 
 更是 爱奇艺、优酷、腾讯、拼多多、饿了么、美团 等多家平台VIP会员，其实我也想低调，但实力不允许啊~
 
