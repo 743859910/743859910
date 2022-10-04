@@ -55,23 +55,23 @@ Here are some ideas to get you started:
 
 > Git：https://git.com/wlc743859910
 
-> Gitee：https://gitee.com/wlc743859910
-
 > Gitea：https://gitea.com/wlc743859910
 
-> GitHub：https://github.com/wlc743859910
+> Gitee：https://gitee.com/wlc743859910
 
 > GitLab：https://gitlab.com/wlc743859910
 
+> GitHub：https://github.com/wlc743859910
+
 > Twitter：https://twitter.com/wlc743859910
 
-> YouTube：https://youtube.com/wlc743859910
+> BiLiBiLi：https://space.bilibili.com/483572106
 
 > LinkedIn：https://linkedin.com/wlc743859910
 
-> Facebook：https://facebook.com/wlc743859910
+> YouTube：https://youtube.com/wlc743859910
 
-> BiLiBiLi：https://space.bilibili.com/483572106
+> Facebook：https://facebook.com/wlc743859910
 
 ---
 
