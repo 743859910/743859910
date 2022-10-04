@@ -75,9 +75,9 @@ Here are some ideas to get you started:
 
 > Facebook：https://facebook.com/wlc743859910
 
-> Steam 爱好者官网：https://steam.wzsndgk.com/ 规划建设中
-
 > 我的Steam 主页：https://steamcommunity.com/id/wzsndgk/
+
+> Steam 爱好者官网：https://steam.wzsndgk.com/ 规划建设中...
 
 > 我的Steam 组主页：https://steamcommunity.com/groups/wzsndgk
 
@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 
 ### ✍ 关于我
 
-本人搭上了90后的首班车，来到了这个所谓的21世纪。从2005年开始涉足互联网：
+本人搭上了90后的首班车；来到了这个所谓的21世纪；从2005年开始涉足互联网；
 
 对网站建设略懂一二，对电子商务一知半解！
 
@@ -97,9 +97,9 @@ Here are some ideas to get you started:
 
 精通 C、C#、CSS、PHP、java、Lisp、C＋＋、Python、Ruby、Perl、JavaScript、Objective-C、ActionScript 等单词的拼写；
 
-更是 腾讯、优酷、爱奇艺、美团、京东、拼多多、饿了么、哔哩哔哩 等多家平台VIP会员，其实我也想低调，但实力不允许啊~
+更是 腾讯、优酷、爱奇艺、美团、京东、拼多多、饿了么、哔哩哔哩 等多家平台VIP会员，其实我也想低调，但实力不允许啊...
 
-故事还在继续………
+新的故事每天都还在继续...
 
 ---
 
