@@ -43,8 +43,6 @@ Here are some ideas to get you started:
 
 > 网名：我只是你的过客
 
-> 个性签名：每个人都是每个人的过客
-
 > QQ：743859910
 
 > 微信：WXH743859910
@@ -52,6 +50,8 @@ Here are some ideas to get you started:
 > Steam 好友代码：475963684
 
 > 微信公众号：WXGZH743859910
+
+> 个性签名：每个人都是每个人的过客
 
 > QQ邮箱：743859910#qq.com（请自行将 # 更换为 @ ）
 
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 > 我的Steam 主页：https://steamcommunity.com/id/wzsndgk/
 
-> Steam 爱好者官网：https://steam.wzsndgk.com/ 规划建设中...
+> Steam 爱好者官网：https://steam.wzsndgk.com/ 正在规划建设中...
 
 > 我的Steam 组主页：https://steamcommunity.com/groups/wzsndgk
 
