@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 > 我的Steam 主页：https://steamcommunity.com/id/wzsndgk/
 
-> Steam 爱好者官网：https://steam.wzsndgk.com/ 正在规划建设中...
+> Steam 爱好者官网：https://steam.wzsndgk.com/ 规划建设中...
 
 > 我的Steam 组主页：https://steamcommunity.com/groups/wzsndgk
 
@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 
 擅长 Ai、Fw、Fl、Br、Ae、Pr、Id、PS 等软件的安装与卸载；
 
-熟悉 IOS、Mac、Linux、Android、Windows 等系统的开关机；
+熟悉 IOS、Mac、Linux、Android、HarmonyOS、Windows 等系统的开关机；
 
 网络时代的爬虫，熟悉 Z-blog、Discuz、PHPwind、Typecho、WordPress 等开源程序；
 
