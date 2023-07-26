@@ -55,6 +55,10 @@ Here are some ideas to get you started:
 
 > QQ邮箱：743859910#qq.com（请自行将 # 更换为 @ ）
 
+> QQ邮箱：wlc743859910@qq.com（请自行将 # 更换为 @ ）
+
+> QQ邮箱：wlc743859910@vip.qq.com（请自行将 # 更换为 @ ）
+
 > Git：https://git.com/wlc743859910
 
 > Gitea：https://gitea.com/wlc743859910
@@ -75,7 +79,7 @@ Here are some ideas to get you started:
 
 > Facebook：https://facebook.com/wlc743859910
 
-> Steam 爱好者官网：https://steam.wzsndgk.com/ 规划建设中...
+> Steam 爱好者官网：https://steam.********.com/ 规划建设中...
 
 > 我的Steam 主页：https://steamcommunity.com/id/wlc743859910
 
@@ -93,7 +97,7 @@ Here are some ideas to get you started:
 
 熟悉 IOS、Mac、Unix、Linux、Android、HarmonyOS、Windows 等系统的开关机；
 
-网络时代的爬虫，熟悉 Z-blog、Discuz、PHPwind、Typecho、WordPress 等开源程序；
+网络时代的爬虫，熟悉 Hexo、Z-blog、Discuz、PHPwind、Typecho、WordPress 等开源程序；
 
 精通 C、C#、CSS、PHP、java、Lisp、C＋＋、Python、Ruby、Perl、JavaScript、Objective-C、ActionScript 等单词的拼写；
 
