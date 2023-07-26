@@ -75,9 +75,9 @@ Here are some ideas to get you started:
 
 > Facebook：https://facebook.com/wlc743859910
 
-> 我的Steam 主页：https://steamcommunity.com/id/wzsndgk/
-
 > Steam 爱好者官网：https://steam.wzsndgk.com/ 规划建设中...
+
+> 我的Steam 主页：https://steamcommunity.com/id/wlc743859910
 
 > 我的Steam 组主页：https://steamcommunity.com/groups/wzsndgk
 
@@ -91,13 +91,13 @@ Here are some ideas to get you started:
 
 擅长 Ai、Fw、Fl、Br、Ae、Pr、Id、PS 等软件的安装与卸载；
 
-熟悉 IOS、Mac、Linux、Android、HarmonyOS、Windows 等系统的开关机；
+熟悉 IOS、Mac、Unix、Linux、Android、HarmonyOS、Windows 等系统的开关机；
 
 网络时代的爬虫，熟悉 Z-blog、Discuz、PHPwind、Typecho、WordPress 等开源程序；
 
 精通 C、C#、CSS、PHP、java、Lisp、C＋＋、Python、Ruby、Perl、JavaScript、Objective-C、ActionScript 等单词的拼写；
 
-更是 腾讯、优酷、爱奇艺、美团、京东、拼多多、饿了么、哔哩哔哩 等多家平台VIP会员，其实我也想低调，但实力不允许啊...
+更是 腾讯、优酷、爱奇艺、美团、京东、拼多多、饿了么、阿里云盘、百度云盘、哔哩哔哩 等多家平台VIP会员，其实我也想低调，但实力不允许啊...
 
 新的故事每天都还在继续...
 
