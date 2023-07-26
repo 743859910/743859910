@@ -55,9 +55,9 @@ Here are some ideas to get you started:
 
 > QQ邮箱：743859910#qq.com（请自行将 # 更换为 @ ）
 
-> QQ邮箱：wlc743859910@qq.com（请自行将 # 更换为 @ ）
+> QQ邮箱：wlc743859910#qq.com（请自行将 # 更换为 @ ）
 
-> QQ邮箱：wlc743859910@vip.qq.com（请自行将 # 更换为 @ ）
+> QQ邮箱：wlc743859910#vip.qq.com（请自行将 # 更换为 @ ）
 
 > Git：https://git.com/wlc743859910
 
