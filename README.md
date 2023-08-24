@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
 > Facebook：https://facebook.com/wlc743859910
 
-> 爱好者官网：https://www.*******.com/ 规划建设中...
+> 我的个人官网：https://www.*******.com/ 规划建设中...
 
 > 我的Steam 主页：https://steamcommunity.com/id/wzsndgk
 
