@@ -122,7 +122,7 @@ Here are some ideas to get you started:
 
 ### 📈 GitHub 统计主题
 
-<img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stats Themes" width="1024px"/>
+<img src="https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/grs-themes_l4ynja.png" alt="GitHub Readme Stats Themes" width="1024px"/>
 
 ---
 
