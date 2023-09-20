@@ -135,11 +135,15 @@ Here are some ideas to get you started:
 
 ---
 
-<center>网名：我只是你的过客</center>
+<center>
 
-<center>个性签名：每个人都是每个人的过客</center>
+网名：我只是你的过客
 
-<center>国籍：中华人民共和国 / 现居：中国湖北省武汉市</center>
+个性签名：每个人都是每个人的过客
+
+国籍：中华人民共和国 / 现居：中国湖北省武汉市
+
+</center>
 
 ---
 
