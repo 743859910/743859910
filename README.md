@@ -112,13 +112,11 @@ Here are some ideas to get you started:
         <td >
             <center><img src="https://github-readme-stats.vercel.app/api?username=wlc743859910&show_icons=true&hide_border=true&theme=dark" ></center>
         </td>
-        <td >
             <center><img src="https://github-readme-stats.vercel.app/api?username=wlc743859910&show_icons=true&hide_border=true&theme=radical" ></center>
         </td>
         <td >
             <center><img src="https://github-readme-stats.vercel.app/api?username=wlc743859910&show_icons=true&hide_border=true&theme=merko" ></center>
         </td>
-        <td >
             <center><img src="https://github-readme-stats.vercel.app/api?username=wlc743859910&show_icons=true&hide_border=true&theme=gruvbox" ></center>
         </td>
         <td >
