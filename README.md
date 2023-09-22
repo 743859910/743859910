@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 </h1>
 
 <h1 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/repository-open-graph-template.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/template.webp">
 </h1>
 
 <h1 align="center">
@@ -212,14 +212,21 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 <img src="https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/grs-themes_l4ynja.webp" alt="GitHub Readme Stat Themes" width="888px"/>
 
-你可以预览[所有可用主题](../themes/README.md)或者签出[主题配置文件](../themes/index.js), 而且如果你喜欢, **你也可以贡献新的主题** :D
+你可以预览[所有可用主题](../themes/README.md)或者签出[主题配置文件](../themes/index.js), 而且如果你喜欢, **你也可以贡献新的主题** :
 
 ---
 
 ### 🔧 技术与工具
 
+<table>
+    <tr>
+        <td >
 <h1 align="center">
 <img src="https://img.shields.io/badge/Git-%2337BA8D?logo=Git"><img src="https://img.shields.io/badge/GitHub-%2337BA8D?logo=GitHub"><img src="https://img.shields.io/badge/Gitee-%2337BA8D?logo=Gitee"><img src="https://img.shields.io/badge/Gitea-%2337BA8D?logo=Gitea"><img src="https://img.shields.io/badge/GitLab-%2337BA8D?logo=GitLab"><img src="https://img.shields.io/badge/Linux-%2337BA8D?logo=Linux"><img src="https://img.shields.io/badge/CentOS-%2337BA8D?logo=CentOS"><img src="https://img.shields.io/badge/CentOS Stream-%2337BA8D?logo=CentOS"><img src="https://img.shields.io/badge/Deepin-%2337BA8D?logo=Deepin"><img src="https://img.shields.io/badge/Google-%2337BA8D?logo=Google"><img src="https://img.shields.io/badge/Google Chrome-%2337BA8D?logo=Google-Chrome"><img src="https://img.shields.io/badge/Microsoft Edge-%2337BA8D?logo=Microsoft-Edge"><img src="https://img.shields.io/badge/Android-%2337BA8D?logo=Android"><img src="https://img.shields.io/badge/iOS-%2337BA8D?logo=iOS"><img src="https://img.shields.io/badge/MacOS-%2337BA8D?logo=MacOS"><img src="https://img.shields.io/badge/Windows-%2337BA8D?logo=Windows"><img src="https://img.shields.io/badge/Apache-%2337BA8D?logo=Apache"><img src="https://img.shields.io/badge/Python-%2337BA8D?logo=Python"><img src="https://img.shields.io/badge/Docker-%2337BA8D?logo=Docker"><img src="https://img.shields.io/badge/Nginx-%2337BA8D?logo=Nginx"><img src="https://img.shields.io/badge/phpMyAdmin-%2337BA8D?logo=phpMyAdmin"><img src="https://img.shields.io/badge/CSS3-%2337BA8D?logo=CSS3"><img src="https://img.shields.io/badge/HTML5-%2337BA8D?logo=HTML5"><img src="https://img.shields.io/badge/MySQL-%2337BA8D?logo=MySQL"><img src="https://img.shields.io/badge/PHP-%2337BA8D?logo=PHP"><img src="https://img.shields.io/badge/MongoDB-%2337BA8D?logo=MongoDB"><img src="https://img.shields.io/badge/Go-%2337BA8D?logo=Go"><img src="https://img.shields.io/badge/Swift-%2337BA8D?logo=Swift"><img src="https://img.shields.io/badge/Shell-%2337BA8D?logo=Shell"><img src="https://img.shields.io/badge/PowerShell-%2337BA8D?logo=PowerShell"><img src="https://img.shields.io/badge/JavaScript-%2337BA8D?logo=JavaScript"><img src="https://img.shields.io/badge/Twitter-%2337BA8D?logo=Twitter"><img src="https://img.shields.io/badge/Facebook-%2337BA8D?logo=Facebook"><img src="https://img.shields.io/badge/YouTube-%2337BA8D?logo=YouTube"><img src="https://img.shields.io/badge/linkedin-%2337BA8D?logo=linkedin">
+        </center>
+        </td>
+    </tr>
+</table>
 
 ---
 
