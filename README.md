@@ -108,6 +108,9 @@ Here are some ideas to get you started:
 
 ### ✍ 博客与写作
 
+<table>
+    <tr>
+        <td >
 > 网名：我只是你的过客
 
 > QQ：743859910
@@ -147,11 +150,18 @@ Here are some ideas to get you started:
 > 我的Steam 主页：https://steamcommunity.com/id/wzsndgk
 
 > 我的Steam 组主页：https://steamcommunity.com/groups/wzsndgk
+        </center>
+        </td>
+    </tr>
+</table>
 
 ---
 
 ### ✍ 关于我
 
+<table>
+    <tr>
+        <td >
 懒癌晚期及强迫症晚期患者
 
 本人搭上了90后的首班车；来到了这个所谓的21世纪；从2005年开始涉足互联网；
@@ -169,6 +179,10 @@ Here are some ideas to get you started:
 更是 腾讯、优酷、爱奇艺、美团、京东、拼多多、饿了么、阿里云盘、百度云盘、哔哩哔哩 等多家平台VIP会员，其实我也想低调，但实力不允许啊...
 
 新的故事每天都还在继续...
+        </center>
+        </td>
+    </tr>
+</table>
 
 ---
 
@@ -208,18 +222,11 @@ Here are some ideas to get you started:
 
 ### 📈 GitHub 统计主题
 
-<table>
-    <tr>
-        <td >
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
 <img src="img src="https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/grs-themes_l4ynja.webp" alt="GitHub Readme Stats Themes" width="1024px"/>
 
 你可以预览[所有可用主题](../themes/README.md)或者签出[主题配置文件](../themes/index.js), 而且如果你喜欢, **你也可以贡献新的主题** :D
-        </center>
-        </td>
-    </tr>
-</table>
 
 ---
 
