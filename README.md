@@ -190,7 +190,6 @@ Here are some ideas to get you started:
     </tr>
     <tr>
         <td >
-        <td >
             <center><img src="https://github-readme-stats.vercel.app/api?username=wlc743859910&show_icons=true&hide_border=true&theme=onedark" ></center>
         <td >
             <center><img src="https://github-readme-stats.vercel.app/api?username=wlc743859910&show_icons=true&hide_border=true&theme=cobalt" ></center>
@@ -199,7 +198,8 @@ Here are some ideas to get you started:
         <td >
             <center><img src="https://github-readme-stats.vercel.app/api?username=wlc743859910&show_icons=true&hide_border=true&theme=highcontrast" ></center>
         <td >
-            <center><img src="https://github-readme-stats.vercel.app/api?username=wlc743859910&show_icons=true&hide_border=true&theme=dracula" ></center>
+            <center><img src="https://github-readme-stats.vercel.app/api?username=wlc743859910&show_icons=true&hide_border=true&theme=dracula" >
+        </center>
         </td>
     </tr>
 </table>
@@ -208,11 +208,18 @@ Here are some ideas to get you started:
 
 ### 📈 GitHub 统计主题
 
+<table>
+    <tr>
+        <td >
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
 <img src="img src="https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/grs-themes_l4ynja.webp" alt="GitHub Readme Stats Themes" width="1024px"/>
 
 你可以预览[所有可用主题](../themes/README.md)或者签出[主题配置文件](../themes/index.js), 而且如果你喜欢, **你也可以贡献新的主题** :D
+        </center>
+        </td>
+    </tr>
+</table>
 
 ---
 
