@@ -1,47 +1,3 @@
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">在你的 README 中获取动态生成的 GitHub 统计信息！</p>
-</p>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/wlc743859910/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://github.com/wlc743859910/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/wlc743859910/github-readme-stats" />
-    </a>
-    <a href="https://codecov.io/gh/wlc743859910/github-readme-stats">
-      <img alt="Tests Coverage" src="https://codecov.io/gh/wlc743859910/github-readme-stats/branch/master/graph/badge.svg" />
-    </a>
-    <a href="https://github.com/wlc743859910/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/wlc743859910/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/wlc743859910/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/wlc743859910/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://securityscorecards.dev/viewer/?uri=github.com/wlc743859910/github-readme-stats">
-      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/wlc743859910/github-readme-stats/badge" />
-    </a>
-    <br />
-    <br />
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
-      <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
-    </a>
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
-      <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
-    </a>
-  </p>
-
-  <p align="center">
-    <a href="#全部-demos">查看 Demo</a>
-    ·
-    <a href="https://github.com/wlc743859910/github-readme-stats/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml">报告 Bug</a>
-    ·
-    <a href="https://github.com/wlc743859910/github-readme-stats/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.yml">请求增加功能</a>
-  </p>
-
-<p align="center">喜欢这个项目？请考虑<a href="https://www.paypal.me/">捐赠</a>来帮助它完善！
-
 ### 👋 Hello，World!
 
 <!--
@@ -62,23 +18,23 @@ Here are some ideas to get you started:
 ---
 
 <h1 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/gh-readme-header.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/wlc743859910/img/gh-readme-header.webp">
 </h1>
 
 <h1 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/template.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/wlc743859910/img/template.webp">
 </h1>
 
 <h1 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/1424469275.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/wlc743859910/img/1424469275.webp">
 </h1>
 
 <h1 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/fbCScVCQ.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/wlc743859910/img/fbCScVCQ.webp">
 </h1>
 
 <h1 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/programmer.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/wlc743859910/img/programmer.webp">
 </h1>
 
 ---
@@ -187,7 +143,7 @@ Here are some ideas to get you started:
 
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
-<img src="https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/grs-themes_l4ynja.webp" alt="GitHub Readme Stat Themes" width="888px"/>
+<img src="https://cdn.jsdelivr.net/gh/wlc743859910/wlc743859910/img/grs-themes_l4ynja.webp" alt="GitHub Readme Stat Themes" width="888px"/>
 
 你可以预览[所有可用主题](../themes/README.md)或者签出[主题配置文件](../themes/index.js), 而且如果你喜欢, **你也可以贡献新的主题** :
 
