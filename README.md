@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://github.com/wlc743859910/wlc743859910/image/upload/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://github.com/wlc743859910/wlc743859910/image/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">在你的 README 中获取动态生成的 GitHub 统计信息！</p>
 </p>
