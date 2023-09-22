@@ -110,16 +110,34 @@ Here are some ideas to get you started:
 <table>
     <tr>
         <td >
-            <center><img src="https://github-readme-stats.vercel.app/api?username=wlc743859910&show_icons=true&hide_border=true&theme=chartreuse-dark" ></center>
+            <center><img src="https://github-readme-stats.vercel.app/api?username=wlc743859910&show_icons=true&hide_border=true&theme=dark" ></center>
+        </td>
+        <td >
+            <center><img src="https://github-readme-stats.vercel.app/api?username=wlc743859910&show_icons=true&hide_border=true&theme=radical" ></center>
+        </td>
+        <td >
+            <center><img src="https://github-readme-stats.vercel.app/api?username=wlc743859910&show_icons=true&hide_border=true&theme=merko" ></center>
+        </td>
+        <td >
+            <center><img src="https://github-readme-stats.vercel.app/api?username=wlc743859910&show_icons=true&hide_border=true&theme=gruvbox" ></center>
+        </td>
+        <td >
+            <center><img src="https://github-readme-stats.vercel.app/api?username=wlc743859910&show_icons=true&hide_border=true&theme=tokyonight" ></center>
+        </td>
+        <td >
+            <center><img src="https://github-readme-stats.vercel.app/api?username=wlc743859910&show_icons=true&hide_border=true&theme=onedark" ></center>
+        </td>
+        <td >
+            <center><img src="https://github-readme-stats.vercel.app/api?username=wlc743859910&show_icons=true&hide_border=true&theme=cobalt" ></center>
+        </td>
+        <td >
+            <center><img src="https://github-readme-stats.vercel.app/api?username=wlc743859910&show_icons=true&hide_border=true&theme=synthwave" ></center>
         </td>
         <td >
             <center><img src="https://github-readme-stats.vercel.app/api?username=wlc743859910&show_icons=true&hide_border=true&theme=highcontrast" ></center>
         </td>
         <td >
-            <center><img src="https://github-readme-stats.vercel.app/api?username=wlc743859910&show_icons=true&hide_border=true&theme=highcontrast" ></center>
-        </td>
-        <td >
-            <center><img src="https://github-readme-stats.vercel.app/api?username=wlc743859910&show_icons=true&hide_border=true&theme=highcontrast" ></center>
+            <center><img src="https://github-readme-stats.vercel.app/api?username=wlc743859910&show_icons=true&hide_border=true&theme=dracula" ></center>
         </td>
     </tr>
 </table>
