@@ -1,26 +1,26 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://res.cloudinary.com/wlc743859910/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">在你的 README 中获取动态生成的 GitHub 统计信息！</p>
 </p>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    <a href="https://github.com/wlc743859910/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/wlc743859910/github-readme-stats/workflows/Test/badge.svg" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
+    <a href="https://github.com/wlc743859910/github-readme-stats/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/wlc743859910/github-readme-stats" />
     </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-      <img alt="Tests Coverage" src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
+    <a href="https://codecov.io/gh/wlc743859910/github-readme-stats">
+      <img alt="Tests Coverage" src="https://codecov.io/gh/wlc743859910/github-readme-stats/branch/master/graph/badge.svg" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/wlc743859910/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/wlc743859910/github-readme-stats?color=0088ff" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/wlc743859910/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/wlc743859910/github-readme-stats?color=0088ff" />
     </a>
-    <a href="https://securityscorecards.dev/viewer/?uri=github.com/anuraghazra/github-readme-stats">
-      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/anuraghazra/github-readme-stats/badge" />
+    <a href="https://securityscorecards.dev/viewer/?uri=github.com/wlc743859910/github-readme-stats">
+      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/wlc743859910/github-readme-stats/badge" />
     </a>
     <br />
     <br />
@@ -108,9 +108,6 @@ Here are some ideas to get you started:
 
 ### ✍ 博客与写作
 
-<table>
-    <tr>
-        <td >
 > 网名：我只是你的过客
 
 > QQ：743859910
@@ -150,18 +147,11 @@ Here are some ideas to get you started:
 > 我的Steam 主页：https://steamcommunity.com/id/wzsndgk
 
 > 我的Steam 组主页：https://steamcommunity.com/groups/wzsndgk
-        </center>
-        </td>
-    </tr>
-</table>
 
 ---
 
 ### ✍ 关于我
 
-<table>
-    <tr>
-        <td >
 懒癌晚期及强迫症晚期患者
 
 本人搭上了90后的首班车；来到了这个所谓的21世纪；从2005年开始涉足互联网；
@@ -179,10 +169,6 @@ Here are some ideas to get you started:
 更是 腾讯、优酷、爱奇艺、美团、京东、拼多多、饿了么、阿里云盘、百度云盘、哔哩哔哩 等多家平台VIP会员，其实我也想低调，但实力不允许啊...
 
 新的故事每天都还在继续...
-        </center>
-        </td>
-    </tr>
-</table>
 
 ---
 
@@ -224,7 +210,7 @@ Here are some ideas to get you started:
 
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
-<img src="img src="https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/grs-themes_l4ynja.webp" alt="GitHub Readme Stats Themes" width="1024px"/>
+<img src="https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/grs-themes_l4ynja.webp" alt="GitHub Readme Stat Themes" width="888px"/>
 
 你可以预览[所有可用主题](../themes/README.md)或者签出[主题配置文件](../themes/index.js), 而且如果你喜欢, **你也可以贡献新的主题** :D
 
@@ -232,15 +218,8 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 ### 🔧 技术与工具
 
-<table>
-    <tr>
-        <td >
 <h1 align="center">
 <img src="https://img.shields.io/badge/Git-%2337BA8D?logo=Git"><img src="https://img.shields.io/badge/GitHub-%2337BA8D?logo=GitHub"><img src="https://img.shields.io/badge/Gitee-%2337BA8D?logo=Gitee"><img src="https://img.shields.io/badge/Gitea-%2337BA8D?logo=Gitea"><img src="https://img.shields.io/badge/GitLab-%2337BA8D?logo=GitLab"><img src="https://img.shields.io/badge/Linux-%2337BA8D?logo=Linux"><img src="https://img.shields.io/badge/CentOS-%2337BA8D?logo=CentOS"><img src="https://img.shields.io/badge/CentOS Stream-%2337BA8D?logo=CentOS"><img src="https://img.shields.io/badge/Deepin-%2337BA8D?logo=Deepin"><img src="https://img.shields.io/badge/Google-%2337BA8D?logo=Google"><img src="https://img.shields.io/badge/Google Chrome-%2337BA8D?logo=Google-Chrome"><img src="https://img.shields.io/badge/Microsoft Edge-%2337BA8D?logo=Microsoft-Edge"><img src="https://img.shields.io/badge/Android-%2337BA8D?logo=Android"><img src="https://img.shields.io/badge/iOS-%2337BA8D?logo=iOS"><img src="https://img.shields.io/badge/MacOS-%2337BA8D?logo=MacOS"><img src="https://img.shields.io/badge/Windows-%2337BA8D?logo=Windows"><img src="https://img.shields.io/badge/Apache-%2337BA8D?logo=Apache"><img src="https://img.shields.io/badge/Python-%2337BA8D?logo=Python"><img src="https://img.shields.io/badge/Docker-%2337BA8D?logo=Docker"><img src="https://img.shields.io/badge/Nginx-%2337BA8D?logo=Nginx"><img src="https://img.shields.io/badge/phpMyAdmin-%2337BA8D?logo=phpMyAdmin"><img src="https://img.shields.io/badge/CSS3-%2337BA8D?logo=CSS3"><img src="https://img.shields.io/badge/HTML5-%2337BA8D?logo=HTML5"><img src="https://img.shields.io/badge/MySQL-%2337BA8D?logo=MySQL"><img src="https://img.shields.io/badge/PHP-%2337BA8D?logo=PHP"><img src="https://img.shields.io/badge/MongoDB-%2337BA8D?logo=MongoDB"><img src="https://img.shields.io/badge/Go-%2337BA8D?logo=Go"><img src="https://img.shields.io/badge/Swift-%2337BA8D?logo=Swift"><img src="https://img.shields.io/badge/Shell-%2337BA8D?logo=Shell"><img src="https://img.shields.io/badge/PowerShell-%2337BA8D?logo=PowerShell"><img src="https://img.shields.io/badge/JavaScript-%2337BA8D?logo=JavaScript"><img src="https://img.shields.io/badge/Twitter-%2337BA8D?logo=Twitter"><img src="https://img.shields.io/badge/Facebook-%2337BA8D?logo=Facebook"><img src="https://img.shields.io/badge/YouTube-%2337BA8D?logo=YouTube"><img src="https://img.shields.io/badge/linkedin-%2337BA8D?logo=linkedin">
-        </center>
-        </td>
-    </tr>
-</table>
 
 ---
 
