@@ -136,7 +136,6 @@ Here are some ideas to get you started:
         <td >
             <center><img src="https://github-readme-stats.vercel.app/api?username=wlc743859910&show_icons=true&hide_border=true&theme=highcontrast" ></center>
         </td>
-        <td >
             <center><img src="https://github-readme-stats.vercel.app/api?username=wlc743859910&show_icons=true&hide_border=true&theme=dracula" ></center>
         </td>
     </tr>
