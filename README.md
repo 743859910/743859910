@@ -55,14 +55,6 @@ Here are some ideas to get you started:
 
 > QQ邮箱：743859910#qq.com（请自行将 # 更换为 @ ）
 
-> QQ邮箱：wzsndgk#qq.com（请自行将 # 更换为 @ ）
-
-> QQ邮箱：wzsndgk#vip.qq.com（请自行将 # 更换为 @ ）
-
-> QQ邮箱：wzsndgk#foxmail.com（请自行将 # 更换为 @ ）
-
-> QQ邮箱：wlc743859910#gmail.com（请自行将 # 更换为 @ ）
-
 > Git：https://git.com/wlc743859910
 
 > Gitea：https://gitea.com/wlc743859910
@@ -83,7 +75,11 @@ Here are some ideas to get you started:
 
 > Facebook：https://facebook.com/wlc743859910
 
+> 我的个人官网：https://www.*******.cn/ 规划建设中...
+
 > 我的个人官网：https://www.*******.com/ 规划建设中...
+
+> 我的个人官网：https://www.*******.eu.org/ 规划建设中...
 
 > 我的Steam 主页：https://steamcommunity.com/id/wzsndgk
 
