@@ -17,28 +17,6 @@ Here are some ideas to get you started:
 
 ---
 
-<h1 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/wlc743859910/img/gh-readme-header.webp">
-</h1>
-
-<h1 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/wlc743859910/img/template.webp">
-</h1>
-
-<h1 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/wlc743859910/img/1424469275.webp">
-</h1>
-
-<h1 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/wlc743859910/img/fbCScVCQ.webp">
-</h1>
-
-<h1 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/wlc743859910/img/programmer.webp">
-</h1>
-
----
-
 ### ✍ 博客与写作
 
 > 网名：我只是你的过客
@@ -199,6 +177,28 @@ default, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, 
         </td>
     </tr>
 </table>
+
+---
+
+<h1 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/wlc743859910/img/gh-readme-header.webp">
+</h1>
+
+<h1 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/wlc743859910/img/template.webp">
+</h1>
+
+<h1 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/wlc743859910/img/1424469275.webp">
+</h1>
+
+<h1 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/wlc743859910/img/fbCScVCQ.webp">
+</h1>
+
+<h1 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/wlc743859910/img/programmer.webp">
+</h1>
 
 ---
 
