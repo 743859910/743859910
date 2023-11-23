@@ -122,7 +122,7 @@ Here are some ideas to get you started:
 
 ### 📈 GitHub 统计
 
-![GitHub 统计](https://stats.justsong.cn/api/github?username=wlc743859910&theme=default&lang=zh-CN)
+![GitHub 统计](https://stats.justsong.cn/api/github?username=wlc743859910&show_icons=true&hide_border=true&theme=default&lang=zh-CN)
 ![GitHub 统计](https://github-readme-stats.vercel.app/api?username=wlc743859910&show_icons=true&hide_border=true&theme=default)
 
 <table>
