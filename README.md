@@ -113,7 +113,40 @@ Here are some ideas to get you started:
 
 ---
 
+### 📈 GitHub 账户信息统计
+
+![GitHub 账户信息统计](https://github-stats.ubrong.com/api?username=wlc743859910&show_icons=true&theme=default)
+![GitHub 账户信息统计](https://github-stats.ubrong.com/api?username=wlc743859910&show_icons=true&theme=dark)
+![GitHub 账户信息统计](https://github-stats.ubrong.com/api?username=wlc743859910&show_icons=true&theme=radical)
+![GitHub 账户信息统计](https://github-stats.ubrong.com/api?username=wlc743859910&show_icons=true&theme=merko)
+![GitHub 账户信息统计](https://github-stats.ubrong.com/api?username=wlc743859910&show_icons=true&theme=gruvbox)
+![GitHub 账户信息统计](https://github-stats.ubrong.com/api?username=wlc743859910&show_icons=true&theme=tokyonight)
+![GitHub 账户信息统计](https://github-stats.ubrong.com/api?username=wlc743859910&show_icons=true&theme=onedark)
+![GitHub 账户信息统计](https://github-stats.ubrong.com/api?username=wlc743859910&show_icons=true&theme=cobalt)
+![GitHub 账户信息统计](https://github-stats.ubrong.com/api?username=wlc743859910&show_icons=true&theme=synthwave)
+![GitHub 账户信息统计](https://github-stats.ubrong.com/api?username=wlc743859910&show_icons=true&theme=highcontrast)
+![GitHub 账户信息统计](https://github-stats.ubrong.com/api?username=wlc743859910&show_icons=true&theme=dracula)
+
+---
+
+### 📈 GitHub 账户最常用语言
+
+![GitHub 账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=wlc743859910&layout=default&theme=tokyonight)
+![GitHub 账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=wlc743859910&layout=compact&theme=tokyonight)
+
+---
+
+### 📈 GitHub 仓库信息卡片
+
+![GitHub 仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=wlc743859910&repo=phoneweb-base&theme=dark)
+
+---
+
 ### 📈 GitHub 统计
+
+![GitHub 统计](https://stats.justsong.cn/api/github?username=wlc743859910&theme=dark&lang=zh-CN)
+
+![GitHub 统计](https://github-readme-stats.vercel.app/api?username=wlc743859910&show_icons=true&hide_border=true&theme=default)
 
 <table>
     <tr>
@@ -149,11 +182,9 @@ Here are some ideas to get you started:
 
 ### 📈 GitHub 统计主题
 
-dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+default, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula。 
 
 <img src="https://cdn.jsdelivr.net/gh/wlc743859910/wlc743859910/img/grs-themes_l4ynja.webp" alt="GitHub Readme Stat Themes" width="888px"/>
-
-你可以预览[所有可用主题](../themes/README.md)或者签出[主题配置文件](../themes/index.js), 而且如果你喜欢, **你也可以贡献新的主题** :
 
 ---
 
@@ -168,6 +199,10 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
         </td>
     </tr>
 </table>
+
+---
+
+![Visitor Count](https://profile-counter.glitch.me/{wlc743859910}/count.svg)
 
 ---
 
