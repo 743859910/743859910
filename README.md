@@ -49,6 +49,10 @@ Here are some ideas to get you started:
 
 > LinkedIn：https://linkedin.com/wlc743859910
 
+> Instagram：https://Instagram.com/wlc743859910
+
+> Telegram：https://Telegram.com/wlc743859910
+
 > YouTube：https://youtube.com/wlc743859910
 
 > Facebook：https://facebook.com/wlc743859910
