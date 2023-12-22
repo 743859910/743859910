@@ -33,29 +33,7 @@ Here are some ideas to get you started:
 
 > QQ邮箱：743859910#qq.com（请自行将 # 更换为 @ ）
 
-> Git：https://git.com/wlc743859910
-
-> Gitea：https://gitea.com/wlc743859910
-
-> Gitee：https://gitee.com/wlc743859910
-
-> GitLab：https://gitlab.com/wlc743859910
-
-> GitHub：https://github.com/wlc743859910
-
-> Twitter：https://twitter.com/wlc743859910
-
 > BiLiBiLi：https://space.bilibili.com/483572106
-
-> LinkedIn：https://linkedin.com/wlc743859910
-
-> Instagram：https://Instagram.com/wlc743859910
-
-> Telegram：https://Telegram.com/wlc743859910
-
-> YouTube：https://youtube.com/wlc743859910
-
-> Facebook：https://facebook.com/wlc743859910
 
 > 我的个人官网：https://www.*******.cn/ 规划建设中...
 
