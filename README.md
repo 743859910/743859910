@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 
 > 网名：我只是你的过客
 
-> QQ：743859910
+> 职业：个体工商户
 
-> 微信：WXH743859910
+> QQ号：743859910
+
+> 微信号：WXH743859910
 
 > Steam 好友代码：475963684
 
@@ -33,29 +35,23 @@ Here are some ideas to get you started:
 
 > QQ邮箱：743859910#qq.com（请自行将 # 更换为 @ ）
 
-> 我的个人官网：https://www.*******.cn/ 规划建设中...
+> 我的个人官网：https://www.*******.cn/ 规划建设中...2025.2.28正式上线运营
 
-> 我的个人官网：https://www.*******.com/ 规划建设中...
+> 我的个人官网：https://www.*******.com/ 规划建设中...2025.2.28正式上线运营
 
-> 我的个人官网：https://www.*******.net/ 规划建设中...
+> 我的个人官网：https://www.*******.net/ 规划建设中...2025.2.28正式上线运营
 
-> 我的个人官网：https://www.*******.eu.org/ 规划建设中...
+> 我的个人官网：https://www.*******.eu.org/ 规划建设中...2025.2.28正式上线运营
 
-> 我的个人官网：https://www.*******.cn.eu.org/ 规划建设中...
-
-> BiLiBiLi：https://space.bilibili.com/483572106
-
-> 我的Steam 主页：https://steamcommunity.com/id/wzsndgk
-
-> 我的Steam 组主页：https://steamcommunity.com/groups/wzsndgk
+> 我的个人官网：https://www.*******.cn.eu.org/ 规划建设中...2025.2.28正式上线运营
 
 ---
 
 ### ✍ 关于我
 
-强迫症晚期/拖延症晚期/懒癌晚期患者(已弃疗)
+懒癌/强迫症/拖延症/ 三合一晚期患者(已弃疗)
 
-本人搭上了90后的首班车；来到了这个所谓的21世纪；从2005年开始涉足互联网；
+本人搭上了90后首班车的第二节车厢；来到了这个所谓的21世纪；从2005年开始涉足互联网；
 
 对网站建设略懂一二，对电子商务一知半解！
 
@@ -63,7 +59,7 @@ Here are some ideas to get you started:
 
 熟悉 IOS、Mac、Unix、Linux、Android、Windows、HyperOS、HarmonyOS 等系统的开关机；
 
-网络时代的爬虫，熟悉 Halo、Hexo、Z-blog、Discuz、Typecho、PHPwind、WordPress 等开源程序；
+网络时代的爬虫，熟悉 Halo、Hexo、Z-blog、Discuz、MacCMS、Typecho、PHPwind、WordPress 等开源程序；
 
 精通 C、C#、CSS、PHP、java、Lisp、C＋＋、Python、Ruby、Perl、JavaScript、Objective-C、ActionScript 等单词的拼写；
 
