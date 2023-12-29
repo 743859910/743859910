@@ -33,8 +33,6 @@ Here are some ideas to get you started:
 
 > QQ邮箱：743859910#qq.com（请自行将 # 更换为 @ ）
 
-> BiLiBiLi：https://space.bilibili.com/483572106
-
 > 我的个人官网：https://www.*******.cn/ 规划建设中...
 
 > 我的个人官网：https://www.*******.com/ 规划建设中...
@@ -44,6 +42,8 @@ Here are some ideas to get you started:
 > 我的个人官网：https://www.*******.eu.org/ 规划建设中...
 
 > 我的个人官网：https://www.*******.cn.eu.org/ 规划建设中...
+
+> BiLiBiLi：https://space.bilibili.com/483572106
 
 > 我的Steam 主页：https://steamcommunity.com/id/wzsndgk
 
