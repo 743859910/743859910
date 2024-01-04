@@ -1,4 +1,4 @@
-### 👋 Hello，World！
+# 👋 Hello，World！
 
 <!--
 **wlc743859910/wlc743859910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---
 
-### ✍ 博客与写作
+# ✍ 博客与写作
 
 > 昵称：我只是你的过客
 
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 ---
 
-### ✍ 关于我
+# ✍ 关于我
 
 懒癌/强迫症/拖延症/ 三合一晚期患者(已弃疗)
 
@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 📈 GitHub 账户信息统计
+# 📈 GitHub 账户信息统计
 
 ![GitHub 账户信息统计](https://github-stats.ubrong.com/api?username=wlc743859910&show_icons=true&theme=default)
 ![GitHub 账户信息统计](https://github-stats.ubrong.com/api?username=wlc743859910&show_icons=true&theme=dark)
@@ -87,20 +87,20 @@ Here are some ideas to get you started:
 
 ---
 
-### 📈 GitHub 账户最常用语言
+# 📈 GitHub 账户最常用语言
 
 ![GitHub 账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=wlc743859910&layout=default&theme=tokyonight)
 ![GitHub 账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=wlc743859910&layout=compact&theme=tokyonight)
 
 ---
 
-### 📈 GitHub 仓库信息卡片
+# 📈 GitHub 仓库信息卡片
 
 ![GitHub 仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=wlc743859910&repo=phoneweb-base&theme=dark)
 
 ---
 
-### 📈 GitHub 统计
+# 📈 GitHub 统计
 
 ![GitHub 统计](https://stats.justsong.cn/api/github?username=wlc743859910&show_icons=true&hide_border=true&theme=default&lang=zh-CN)
 ![GitHub 统计](https://github-readme-stats.vercel.app/api?username=wlc743859910&show_icons=true&hide_border=true&theme=default)
@@ -137,7 +137,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 📈 GitHub 统计主题
+# 📈 GitHub 统计主题
 
 default, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula。 
 
@@ -145,12 +145,12 @@ default, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, 
 
 ---
 
-### 🔧 技术与工具
+# 🔧 技术与工具
 
 <table>
     <tr>
         <td >
-<h1 align="center">
+<p align="center">
 <img src="https://img.shields.io/badge/Git-%2337BA8D?logo=Git"><img src="https://img.shields.io/badge/GitHub-%2337BA8D?logo=GitHub"><img src="https://img.shields.io/badge/Gitee-%2337BA8D?logo=Gitee"><img src="https://img.shields.io/badge/Gitea-%2337BA8D?logo=Gitea"><img src="https://img.shields.io/badge/GitLab-%2337BA8D?logo=GitLab"><img src="https://img.shields.io/badge/Linux-%2337BA8D?logo=Linux"><img src="https://img.shields.io/badge/CentOS-%2337BA8D?logo=CentOS"><img src="https://img.shields.io/badge/CentOS Stream-%2337BA8D?logo=CentOS"><img src="https://img.shields.io/badge/Deepin-%2337BA8D?logo=Deepin"><img src="https://img.shields.io/badge/Google-%2337BA8D?logo=Google"><img src="https://img.shields.io/badge/Google Chrome-%2337BA8D?logo=Google-Chrome"><img src="https://img.shields.io/badge/Microsoft Edge-%2337BA8D?logo=Microsoft-Edge"><img src="https://img.shields.io/badge/Android-%2337BA8D?logo=Android"><img src="https://img.shields.io/badge/iOS-%2337BA8D?logo=iOS"><img src="https://img.shields.io/badge/MacOS-%2337BA8D?logo=MacOS"><img src="https://img.shields.io/badge/Windows-%2337BA8D?logo=Windows"><img src="https://img.shields.io/badge/Apache-%2337BA8D?logo=Apache"><img src="https://img.shields.io/badge/Python-%2337BA8D?logo=Python"><img src="https://img.shields.io/badge/Docker-%2337BA8D?logo=Docker"><img src="https://img.shields.io/badge/Nginx-%2337BA8D?logo=Nginx"><img src="https://img.shields.io/badge/phpMyAdmin-%2337BA8D?logo=phpMyAdmin"><img src="https://img.shields.io/badge/CSS3-%2337BA8D?logo=CSS3"><img src="https://img.shields.io/badge/HTML5-%2337BA8D?logo=HTML5"><img src="https://img.shields.io/badge/MySQL-%2337BA8D?logo=MySQL"><img src="https://img.shields.io/badge/PHP-%2337BA8D?logo=PHP"><img src="https://img.shields.io/badge/MongoDB-%2337BA8D?logo=MongoDB"><img src="https://img.shields.io/badge/Go-%2337BA8D?logo=Go"><img src="https://img.shields.io/badge/Swift-%2337BA8D?logo=Swift"><img src="https://img.shields.io/badge/Shell-%2337BA8D?logo=Shell"><img src="https://img.shields.io/badge/PowerShell-%2337BA8D?logo=PowerShell"><img src="https://img.shields.io/badge/JavaScript-%2337BA8D?logo=JavaScript"><img src="https://img.shields.io/badge/Twitter-%2337BA8D?logo=Twitter"><img src="https://img.shields.io/badge/Facebook-%2337BA8D?logo=Facebook"><img src="https://img.shields.io/badge/YouTube-%2337BA8D?logo=YouTube"><img src="https://img.shields.io/badge/linkedin-%2337BA8D?logo=linkedin">
         </center>
         </td>
@@ -159,25 +159,25 @@ default, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, 
 
 ---
 
-<h1 align="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/wlc743859910/wlc743859910/img/gh-readme-header.webp">
-</h1>
+</p>
 
-<h1 align="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/wlc743859910/wlc743859910/img/template.webp">
-</h1>
+</p>
 
-<h1 align="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/wlc743859910/wlc743859910/img/1424469275.webp">
-</h1>
+</p>
 
-<h1 align="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/wlc743859910/wlc743859910/img/fbCScVCQ.webp">
-</h1>
+</p>
 
-<h1 align="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/wlc743859910/wlc743859910/img/programmer.webp">
-</h1>
+</p>
 
 ---
 
