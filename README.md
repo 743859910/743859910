@@ -192,7 +192,7 @@ default, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, 
 <table>
     <tr>
         <td >
-网名：我只是你的过客
+昵称：我只是你的过客
 
 个性签名：每个人都是每个人的过客
 
