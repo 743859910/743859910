@@ -18,12 +18,31 @@ Here are some ideas to get you started:
 ---
 
 <div align="center">
- <img src="https://img.shields.io/github/issues/wlc743859910/wlc743859910?color=green"> 
+ <img src="https://img.shields.io/github/issues/wlc743859910/wlc743859910?color=Yellow"> 
  <img src="https://img.shields.io/github/stars/wlc743859910/wlc743859910?color=yellow"> 
- <img src="https://img.shields.io/github/forks/wlc743859910/wlc743859910?color=orange"> 
- <img src="https://img.shields.io/github/license/wlc743859910/wlc743859910?color=ff69b4"> 
- <img src="https://img.shields.io/github/languages/code-size/wlc743859910/wlc743859910?color=blueviolet"> 
+ <img src="https://img.shields.io/github/forks/wlc743859910/wlc743859910?color=Yellow"> 
+ <img src="https://img.shields.io/github/license/wlc743859910/wlc743859910?color=Yellow"> 
+ <img src="https://img.shields.io/github/languages/code-size/wlc743859910/wlc743859910?color=Yellow"> 
+ <img src="https://img.shields.io/github/issues/wlc743859910/wlc743859910?color=Yellow"> 
+ <img src="https://img.shields.io/github/discussions/wlc743859910/wlc743859910?color=Yellow"> 
 </div>
+
+---
+
+color 属性取值
+color 属性的值可以是颜色名称或颜色代码，颜色名称包括红、橙、黄、绿、蓝、紫、黑、白等常用颜色名称，也可以使用 RGB 合成颜色代码或十六进制颜色代码进行取值。
+
+以下为部分常见颜色名称及其对应的颜色代码：
+
+| 颜色名称 | 颜色代码 |
+| :------: | :------: |
+|   Red    | #FF0000  |
+|  Green   | #008000  |
+|   Blue   | #0000FF  |
+|  Yellow  | #FFFF00  |
+|  Purple  | #800080  |
+|  Black   | #000000  |
+|  White   | #FFFFFF  |
 
 ---
 
