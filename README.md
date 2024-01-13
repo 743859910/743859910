@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 ---
 
 <div align="center">
- <img src="https://img.shields.io/github/issues/wlc743859910/wlc743859910?color=Yellow"> 
  <img src="https://img.shields.io/github/stars/wlc743859910/wlc743859910?color=yellow"> 
- <img src="https://img.shields.io/github/forks/wlc743859910/wlc743859910?color=Yellow"> 
- <img src="https://img.shields.io/github/license/wlc743859910/wlc743859910?color=Yellow"> 
+ <img src="https://img.shields.io/github/issues/wlc743859910/wlc743859910?color=Yellow"> 
  <img src="https://img.shields.io/github/languages/code-size/wlc743859910/wlc743859910?color=Yellow"> 
+ <img src="https://img.shields.io/github/license/wlc743859910/wlc743859910?color=Yellow"> 
  <img src="https://img.shields.io/github/issues/wlc743859910/wlc743859910?color=Yellow"> 
  <img src="https://img.shields.io/github/discussions/wlc743859910/wlc743859910?color=Yellow"> 
+ <img src="https://img.shields.io/github/forks/wlc743859910/wlc743859910?color=Yellow"> 
 </div>
 
 ---
