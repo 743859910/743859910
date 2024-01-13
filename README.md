@@ -18,16 +18,11 @@ Here are some ideas to get you started:
 ---
 
 <div align="center">
- <img src="https://img.shields.io/github/issues/wlc743859910/wlc743859910?color=green">
- <img src="https://img.shields.io/github/stars/wlc743859910/wlc743859910?color=yellow">
- <img src="https://img.shields.io/github/forks/wlc743859910/wlc743859910?color=orange">
- <img src="https://img.shields.io/github/license/wlc743859910/wlc743859910?color=ff69b4">
- <img src="https://img.shields.io/github/languages/code-size/wlc743859910/wlc743859910?color=blueviolet">
- <img src="https://img.shields.io/github/stars/wlc743859910/wlc743859910?label=%E7%82%B9%E8%B5%9E">
- <img src="https://img.shields.io/github/last-commit/wlc743859910/wlc743859910?label=%E6%9C%80%E8%BF%91%E6%8F%90%E4%BA%A4">
- <img src="https://img.shields.io/github/release/wlc743859910/wlc743859910?label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC">
- <img src="https://img.shields.io/github/license/wlc743859910/wlc743859910?label=%E8%AE%B8%E5%8F%AF%E8%AF%81">
- <img src="https://github.com/wlc743859910/wlc743859910/actions/workflows/build_latest.yml/badge.svg">
+ <img src="https://img.shields.io/github/issues/wlc743859910/wlc743859910?color=green"> 
+ <img src="https://img.shields.io/github/stars/wlc743859910/wlc743859910?color=yellow"> 
+ <img src="https://img.shields.io/github/forks/wlc743859910/wlc743859910?color=orange"> 
+ <img src="https://img.shields.io/github/license/wlc743859910/wlc743859910?color=ff69b4"> 
+ <img src="https://img.shields.io/github/languages/code-size/wlc743859910/wlc743859910?color=blueviolet"> 
 </div>
 
 ---
