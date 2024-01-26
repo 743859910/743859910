@@ -151,8 +151,6 @@ Here are some ideas to get you started:
 
 # 📈 GitHub 统计主题
 
-default, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula。 
-
 <img src="https://raw.github.ink/wlc743859910/wlc743859910/master/img/grs-themes.webp" alt="GitHub Readme Stat Themes" width="888px"/>
 
 ---
@@ -172,23 +170,23 @@ default, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, 
 ---
 
 <p align="center">
-  <img src="https://raw.github.ink/gh/wlc743859910/wlc743859910/master/img/1.webp">
+  <img src="https://raw.github.ink/wlc743859910/wlc743859910/master/img/1.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.github.ink/gh/wlc743859910/wlc743859910/master/img/2.webp">
+  <img src="https://raw.github.ink/wlc743859910/wlc743859910/master/img/2.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.github.ink/gh/wlc743859910/wlc743859910/master/img/3.webp">
+  <img src="https://raw.github.ink/wlc743859910/wlc743859910/master/img/3.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.github.ink/gh/wlc743859910/wlc743859910/master/img/4.webp">
+  <img src="https://raw.github.ink/wlc743859910/wlc743859910/master/img/4.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.github.ink/gh/wlc743859910/wlc743859910/master/img/5.webp">
+  <img src="https://raw.github.ink/wlc743859910/wlc743859910/master/img/5.webp">
 </p>
 
 ---
