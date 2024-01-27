@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 擅长 Ai、Fw、Fl、Br、Ae、Pr、Id、PS 等软件的安装与卸载；
 
-熟悉 IOS、Unix、Linux、MacOS、Android、Windows、HyperOS、HarmonyOS 等系统的开关机；
+熟悉 IOS、Mac、Unix、Linux、Android、Windows、HyperOS、HarmonyOS 等系统的开关机；
 
 网络时代的爬虫，熟悉 Halo、Hexo、Z-blog、Discuz、MacCMS、Typecho、PHPwind、WordPress 等开源程序；
 
