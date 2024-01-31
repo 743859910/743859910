@@ -197,7 +197,7 @@ Here are some ideas to get you started:
 
 ---
 
-[![PayPal donate button](https://img.shields.io/badge/PayPal-donate-green.svg)](https://paypal.me/)  [![微信捐助按钮](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](图片链接) [![支付宝捐助按钮](https://img.shields.io/badge/%E6%94%AF%E4%BB%98%E5%AE%9D-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](图片链接)
+![PayPal](https://img.shields.io/badge/PayPal-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg) [![QQ](https://img.shields.io/badge/QQ-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.github.ink/wlc743859910/wlc743859910/master/img/QQ.webp) [![微信](https://img.shields.io/badge/微信-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.github.ink/wlc743859910/wlc743859910/master/img/WX.webp) [![支付宝](https://img.shields.io/badge/支付宝-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.github.ink/wlc743859910/wlc743859910/master/img/ZFB.webp) [![爱发电](https://img.shields.io/badge/爱发电-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.github.ink/wlc743859910/wlc743859910/master/img/AFD.webp) [![赞赏码](https://img.shields.io/badge/赞赏码-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.github.ink/wlc743859910/wlc743859910/master/img/ZSM.webp)
 
 ---
 
