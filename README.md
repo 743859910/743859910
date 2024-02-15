@@ -22,9 +22,60 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/github/issues/wlc743859910/wlc743859910?color=Yellow"> 
  <img src="https://img.shields.io/github/languages/code-size/wlc743859910/wlc743859910?color=Yellow"> 
  <img src="https://img.shields.io/github/license/wlc743859910/wlc743859910?color=Yellow"> 
- <img src="https://img.shields.io/github/issues/wlc743859910/wlc743859910?color=Yellow"> 
  <img src="https://img.shields.io/github/discussions/wlc743859910/wlc743859910?color=Yellow"> 
  <img src="https://img.shields.io/github/forks/wlc743859910/wlc743859910?color=Yellow"> 
+ <img src="https://img.shields.io/github/release/wlc743859910/wlc743859910?color=Yellow"> 
+ <img src="https://img.shields.io/github/watchers/wlc743859910/wlc743859910?color=Yellow"> 
+ <img src="https://img.shields.io/github/followers/wlc743859910/wlc743859910?color=Yellow"> 
+</div>
+
+---
+
+通过badgen.net生成
+
+<div align="center">
+ <img src="https://badgen.net/github/stars/wlc743859910/wlc743859910"> 
+ <img src="https://badgen.net/github/forks/wlc743859910/wlc743859910"> 
+ <img src="https://badgen.net/github/issues/wlc743859910/wlc743859910"> 
+ <img src="https://badgen.net/github/release/wlc743859910/wlc743859910"> 
+ <img src="https://badgen.net/github/watchers/wlc743859910/wlc743859910"> 
+ <img src="https://badgen.net/github/followers/wlc743859910"> 
+</div>
+
+---
+
+通过shields.io生成
+
+<div align="center">
+ <img src="https://img.shields.io/github/stars/wlc743859910/wlc743859910.svg"> 
+ <img src="https://img.shields.io/github/forks/wlc743859910/wlc743859910.svg"> 
+ <img src="https://img.shields.io/github/issues/wlc743859910/wlc743859910.svg"> 
+ <img src="https://img.shields.io/github/release/wlc743859910/wlc743859910.svg"> 
+ <img src="https://img.shields.io/github/watchers/wlc743859910/wlc743859910.svg"> 
+ <img src="https://img.shields.io/github/followers/wlc743859910.svg"> 
+</div>
+
+---
+
+<div align="center">
+ <img src="https://img.shields.io/badge/Steam-%E6%88%91%E5%8F%AA%E6%98%AF%E4%BD%A0%E7%9A%84%E8%BF%87%E5%AE%A2-brightgreen.svg"> 
+ <img src="https://img.shields.io/badge/Discord-%E6%88%91%E5%8F%AA%E6%98%AF%E4%BD%A0%E7%9A%84%E8%BF%87%E5%AE%A2-brightgreen.svg"> 
+ <img src="https://img.shields.io/badge/Telegram-%E6%88%91%E5%8F%AA%E6%98%AF%E4%BD%A0%E7%9A%84%E8%BF%87%E5%AE%A2-brightgreen.svg"> 
+ <img src="https://img.shields.io/badge/哔哩哔哩-%E6%88%91%E5%8F%AA%E6%98%AF%E4%BD%A0%E7%9A%84%E8%BF%87%E5%AE%A2-brightgreen.svg"> 
+ <img src="https://img.shields.io/badge/Gitee-%E6%88%91%E5%8F%AA%E6%98%AF%E4%BD%A0%E7%9A%84%E8%BF%87%E5%AE%A2-brightgreen.svg"> 
+ <img src="https://img.shields.io/badge/GitHub-%E6%88%91%E5%8F%AA%E6%98%AF%E4%BD%A0%E7%9A%84%E8%BF%87%E5%AE%A2-brightgreen.svg"> 
+ <img src="https://img.shields.io/badge/知乎-%E6%88%91%E5%8F%AA%E6%98%AF%E4%BD%A0%E7%9A%84%E8%BF%87%E5%AE%A2-brightgreen.svg"> 
+ <img src="https://img.shields.io/badge/微信公众号-%E6%88%91%E5%8F%AA%E6%98%AF%E4%BD%A0%E7%9A%84%E8%BF%87%E5%AE%A2-brightgreen.svg"> 
+ <img src="https://img.shields.io/badge/慕课网-%E6%88%91%E5%8F%AA%E6%98%AF%E4%BD%A0%E7%9A%84%E8%BF%87%E5%AE%A2-brightgreen.svg"> 
+ <img src="https://img.shields.io/badge/简书-%E6%88%91%E5%8F%AA%E6%98%AF%E4%BD%A0%E7%9A%84%E8%BF%87%E5%AE%A2-brightgreen.svg"> 
+ <img src="https://img.shields.io/badge/CSDN-%E6%88%91%E5%8F%AA%E6%98%AF%E4%BD%A0%E7%9A%84%E8%BF%87%E5%AE%A2-brightgreen.svg"> 
+ <img src="https://img.shields.io/badge/博客园-%E6%88%91%E5%8F%AA%E6%98%AF%E4%BD%A0%E7%9A%84%E8%BF%87%E5%AE%A2-brightgreen.svg"> 
+ <img src="https://img.shields.io/badge/掘金-%E6%88%91%E5%8F%AA%E6%98%AF%E4%BD%A0%E7%9A%84%E8%BF%87%E5%AE%A2-brightgreen.svg"> 
+ <img src="https://img.shields.io/badge/思否-%E6%88%91%E5%8F%AA%E6%98%AF%E4%BD%A0%E7%9A%84%E8%BF%87%E5%AE%A2-brightgreen.svg"> 
+ <img src="https://img.shields.io/badge/小红书-%E6%88%91%E5%8F%AA%E6%98%AF%E4%BD%A0%E7%9A%84%E8%BF%87%E5%AE%A2-brightgreen.svg"> 
+ <img src="https://img.shields.io/badge/开源中国-%E6%88%91%E5%8F%AA%E6%98%AF%E4%BD%A0%E7%9A%84%E8%BF%87%E5%AE%A2-brightgreen.svg"> 
+ <img src="https://img.shields.io/badge/百度贴吧-%E6%88%91%E5%8F%AA%E6%98%AF%E4%BD%A0%E7%9A%84%E8%BF%87%E5%AE%A2-brightgreen.svg"> 
+ <img src="https://img.shields.io/badge/腾讯云社区-%E6%88%91%E5%8F%AA%E6%98%AF%E4%BD%A0%E7%9A%84%E8%BF%87%E5%AE%A2-brightgreen.svg"> 
 </div>
 
 ---
