@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/github/forks/wlc743859910/wlc743859910?color=Yellow"> 
  <img src="https://img.shields.io/github/release/wlc743859910/wlc743859910?color=Yellow"> 
  <img src="https://img.shields.io/github/watchers/wlc743859910/wlc743859910?color=Yellow"> 
- <img src="https://img.shields.io/github/followers/wlc743859910/wlc743859910?color=Yellow"> 
+ <img src="https://img.shields.io/github/followers/wlc743859910?color=Yellow"> 
 </div>
 
 ---
