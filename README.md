@@ -105,20 +105,22 @@ Here are some ideas to get you started:
 
 # 📈 GitHub 账户最常用语言
 
-![GitHub 账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=wlc743859910&layout=default&theme=tokyonight)
 ![GitHub 账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=wlc743859910&layout=compact&theme=tokyonight)
+
+![GitHub 账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=wlc743859910&layout=default&theme=tokyonight)
 
 ---
 
 # 📈 GitHub 仓库信息卡片
 
-![GitHub 仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=wlc743859910&repo=phoneweb-base&theme=dark)
+![GitHub 仓库信息卡片](https://github-stats.ubrong.com/api/?username=wlc743859910&repo=phoneweb-base&theme=dark)
 
 ---
 
 # 📈 GitHub 统计
 
 ![GitHub 统计](https://stats.justsong.cn/api/github?username=wlc743859910&show_icons=true&hide_border=true&theme=default&lang=zh-CN)
+
 ![GitHub 统计](https://github-readme-stats.vercel.app/api?username=wlc743859910&show_icons=true&hide_border=true&theme=default)
 
 <table>
