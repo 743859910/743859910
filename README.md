@@ -19,40 +19,14 @@ Here are some ideas to get you started:
 
 <div align="center">
  <img src="https://img.shields.io/github/stars/wlc743859910/wlc743859910?color=yellow"> 
+ <img src="https://img.shields.io/github/forks/wlc743859910/wlc743859910?color=Yellow"> 
  <img src="https://img.shields.io/github/issues/wlc743859910/wlc743859910?color=Yellow"> 
  <img src="https://img.shields.io/github/languages/code-size/wlc743859910/wlc743859910?color=Yellow"> 
  <img src="https://img.shields.io/github/license/wlc743859910/wlc743859910?color=Yellow"> 
- <img src="https://img.shields.io/github/discussions/wlc743859910/wlc743859910?color=Yellow"> 
- <img src="https://img.shields.io/github/forks/wlc743859910/wlc743859910?color=Yellow"> 
  <img src="https://img.shields.io/github/release/wlc743859910/wlc743859910?color=Yellow"> 
+ <img src="https://img.shields.io/github/discussions/wlc743859910/wlc743859910?color=Yellow"> 
  <img src="https://img.shields.io/github/watchers/wlc743859910/wlc743859910?color=Yellow"> 
  <img src="https://img.shields.io/github/followers/wlc743859910?color=Yellow"> 
-</div>
-
----
-
-通过badgen.net生成
-
-<div align="center">
- <img src="https://badgen.net/github/stars/wlc743859910/wlc743859910"> 
- <img src="https://badgen.net/github/forks/wlc743859910/wlc743859910"> 
- <img src="https://badgen.net/github/issues/wlc743859910/wlc743859910"> 
- <img src="https://badgen.net/github/release/wlc743859910/wlc743859910"> 
- <img src="https://badgen.net/github/watchers/wlc743859910/wlc743859910"> 
- <img src="https://badgen.net/github/followers/wlc743859910"> 
-</div>
-
----
-
-通过shields.io生成
-
-<div align="center">
- <img src="https://img.shields.io/github/stars/wlc743859910/wlc743859910.svg"> 
- <img src="https://img.shields.io/github/forks/wlc743859910/wlc743859910.svg"> 
- <img src="https://img.shields.io/github/issues/wlc743859910/wlc743859910.svg"> 
- <img src="https://img.shields.io/github/release/wlc743859910/wlc743859910.svg"> 
- <img src="https://img.shields.io/github/watchers/wlc743859910/wlc743859910.svg"> 
- <img src="https://img.shields.io/github/followers/wlc743859910.svg"> 
 </div>
 
 ---
