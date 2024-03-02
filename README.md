@@ -17,16 +17,24 @@ Here are some ideas to get you started:
 
 ---
 
-<div align="center">
- <img src="https://img.shields.io/github/stars/wlc743859910/wlc743859910?color=yellow"> 
- <img src="https://img.shields.io/github/forks/wlc743859910/wlc743859910?color=Yellow"> 
- <img src="https://img.shields.io/github/issues/wlc743859910/wlc743859910?color=Yellow"> 
- <img src="https://img.shields.io/github/languages/code-size/wlc743859910/wlc743859910?color=Yellow"> 
- <img src="https://img.shields.io/github/license/wlc743859910/wlc743859910?color=Yellow"> 
- <img src="https://img.shields.io/github/release/wlc743859910/wlc743859910?color=Yellow"> 
- <img src="https://img.shields.io/github/discussions/wlc743859910/wlc743859910?color=Yellow"> 
- <img src="https://img.shields.io/github/watchers/wlc743859910/wlc743859910?color=Yellow"> 
- <img src="https://img.shields.io/github/followers/wlc743859910?color=Yellow"> 
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+<img style="width: 180px; height: 180px; border-radius: 12px;" src="https://avatars.githubusercontent.com/u/84552324?v=4" alt="App Icon"/></a>
+<br>
+<br>
+<i>wlc743859910</i>
+<br>
+<br>
+<a href="https://github.com/wlc743859910/wlc743859910/releases"><img src="https://img.shields.io/github/stars/wlc743859910/wlc743859910?color=yellow"></a>
+<a href="https://github.com/wlc743859910/wlc743859910/releases"><img src="https://img.shields.io/github/forks/wlc743859910/wlc743859910?color=Yellow"></a>
+<a href="https://github.com/wlc743859910/wlc743859910/releases"><img src="https://img.shields.io/github/issues/wlc743859910/wlc743859910?color=Yellow"></a>
+<a href="https://github.com/wlc743859910/wlc743859910/releases"><img src="https://img.shields.io/github/languages/code-size/wlc743859910/wlc743859910?color=Yellow"></a>
+<a href="https://github.com/wlc743859910/wlc743859910/releases"><img src="https://img.shields.io/github/license/wlc743859910/wlc743859910?color=Yellow"></a>
+<a href="https://github.com/wlc743859910/wlc743859910/releases"><img src="https://img.shields.io/github/release/wlc743859910/wlc743859910?color=Yellow"></a>
+<a href="https://github.com/wlc743859910/wlc743859910/releases"><img src="https://img.shields.io/github/discussions/wlc743859910/wlc743859910?color=Yellow"></a>
+<a href="https://github.com/wlc743859910/wlc743859910/releases"><img src="https://img.shields.io/github/watchers/wlc743859910/wlc743859910?color=Yellow"></a>
+<a href="https://github.com/wlc743859910/wlc743859910/releases"><img src="https://img.shields.io/github/followers/wlc743859910?color=Yellow"></a>
+<a href="https://github.com/wlc743859910/wlc743859910/releases"><img src="https://img.shields.io/github/contributors/wlc743859910?color=Yellow"></a>
+<a href="https://github.com/wlc743859910/wlc743859910/releases"><img src="https://img.shields.io/github/downloads/wlc743859910?color=Yellow"></a>
 </div>
 
 ---
