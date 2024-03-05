@@ -81,6 +81,8 @@ Here are some ideas to get you started:
 
 擅长 Ai、Fw、Fl、Br、Ae、Pr、Id、PS 等软件的安装与卸载；
 
+2010年开始做淘宝，截至目前仍然是是一家个体工商户和三家商贸公司法定代表人；
+
 熟悉 IOS、Unix、Linux、MacOS、Android、Windows、HyperOS、HarmonyOS 等系统的开关机；
 
 网络时代的爬虫，熟悉 Halo、Hexo、Z-blog、Discuz、MacCMS、Typecho、PHPwind、WordPress 等开源程序；
