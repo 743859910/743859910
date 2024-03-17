@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ---
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center;">
-<img style="width: 180px; height: 180px; border-radius: 12px;" src="https://raw.github.ink/wlc743859910/wlc743859910/master/img/logo.webp" alt="logo"/></a>
+<img style="width: 180px; height: 180px; border-radius: 12px;" src="https://raw.gitmirror.com/wlc743859910/wlc743859910/master/img/logo.webp" alt="logo"/></a>
 <br>
 <br>
 <i>wlc743859910</i>
@@ -165,7 +165,7 @@ Here are some ideas to get you started:
 
 # 📈 GitHub 统计主题
 
-<img src="https://raw.github.ink/wlc743859910/wlc743859910/master/img/grs-themes.webp" alt="GitHub Readme Stat Themes" width="888px"/>
+<img src="https://raw.gitmirror.com/wlc743859910/wlc743859910/master/img/grs-themes.webp" alt="GitHub Readme Stat Themes" width="888px"/>
 
 ---
 
@@ -184,23 +184,23 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <img src="https://raw.github.ink/wlc743859910/wlc743859910/master/img/1.webp">
+  <img src="https://raw.gitmirror.com/wlc743859910/wlc743859910/master/img/1.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.github.ink/wlc743859910/wlc743859910/master/img/2.webp">
+  <img src="https://raw.gitmirror.com/wlc743859910/wlc743859910/master/img/2.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.github.ink/wlc743859910/wlc743859910/master/img/3.webp">
+  <img src="https://raw.gitmirror.com/wlc743859910/wlc743859910/master/img/3.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.github.ink/wlc743859910/wlc743859910/master/img/4.webp">
+  <img src="https://raw.gitmirror.com/wlc743859910/wlc743859910/master/img/4.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.github.ink/wlc743859910/wlc743859910/master/img/5.webp">
+  <img src="https://raw.gitmirror.com/wlc743859910/wlc743859910/master/img/5.webp">
 </p>
 
 ---
@@ -209,7 +209,7 @@ Here are some ideas to get you started:
 
 ---
 
-![PayPal](https://img.shields.io/badge/PayPal-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg) [![QQ](https://img.shields.io/badge/QQ-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.github.ink/wlc743859910/wlc743859910/master/img/QQ.webp) [![微信](https://img.shields.io/badge/微信-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.github.ink/wlc743859910/wlc743859910/master/img/WX.webp) [![支付宝](https://img.shields.io/badge/支付宝-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.github.ink/wlc743859910/wlc743859910/master/img/ZFB.webp) [![爱发电](https://img.shields.io/badge/爱发电-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.github.ink/wlc743859910/wlc743859910/master/img/AFD.webp) [![赞赏码](https://img.shields.io/badge/赞赏码-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.github.ink/wlc743859910/wlc743859910/master/img/ZSM.webp) [![数字人民币](https://img.shields.io/badge/数字人民币-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.github.ink/wlc743859910/wlc743859910/master/img/SZRMB.webp)
+![PayPal](https://img.shields.io/badge/PayPal-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg) [![QQ](https://img.shields.io/badge/QQ-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.gitmirror.com/wlc743859910/wlc743859910/master/img/QQ.webp) [![微信](https://img.shields.io/badge/微信-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.gitmirror.com/wlc743859910/wlc743859910/master/img/WX.webp) [![支付宝](https://img.shields.io/badge/支付宝-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.gitmirror.com/wlc743859910/wlc743859910/master/img/ZFB.webp) [![爱发电](https://img.shields.io/badge/爱发电-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.gitmirror.com/wlc743859910/wlc743859910/master/img/AFD.webp) [![赞赏码](https://img.shields.io/badge/赞赏码-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.gitmirror.com/wlc743859910/wlc743859910/master/img/ZSM.webp) [![数字人民币](https://img.shields.io/badge/数字人民币-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.gitmirror.com/wlc743859910/wlc743859910/master/img/SZRMB.webp)
 
 ---
 
