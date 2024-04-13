@@ -71,17 +71,19 @@ Here are some ideas to get you started:
 
 懒癌/强迫症/拖延症/ 三合一晚期患者(已弃疗)
 
-本人搭上了90后首班车的第二节车厢；来到了这个所谓的21世纪；从2005年开始涉足互联网；
+20世纪90年代初；
+
+本人搭上了九零后列车的第二节车厢；来到了这个所谓的21世纪；从2005年开始涉足互联网；
 
 对网站建设略懂一二，对电子商务一知半解！
 
 擅长 Ai、Fw、Fl、Br、Ae、Pr、Id、PS 等软件的安装与卸载；
 
-2010年开始做淘宝，截至目前仍然是是一家个体工商户和三家商贸公司法定代表人；
+2010年开始做淘宝，截至目前仍然是一家个体工商户、三家商贸公司法定代表人、三家商贸公司股东；
 
-熟悉 IOS、Unix、Linux、MacOS、Android、Windows、HyperOS、ChromeOS、HarmonyOS 等系统的开关机；
+网络时代的爬虫，熟悉 Halo、Hexo、Ghost、Z-blog、Discuz、MacCMS、Typecho、PHPwind、WordPress 等开源程序；
 
-网络时代的爬虫，熟悉 Halo、Hexo、Z-blog、Discuz、MacCMS、Typecho、PHPwind、WordPress 等开源程序；
+熟悉 IOS、Unix、Linux、MacOS、Android、SteamOS、HyperOS、Windows、ChromeOS、HarmonyOS 等系统的开关机；
 
 精通 C、C#、CSS、PHP、java、Lisp、C＋＋、Python、Ruby、Perl、JavaScript、Objective-C、ActionScript 等单词的拼写；
 
