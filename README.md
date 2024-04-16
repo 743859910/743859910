@@ -257,3 +257,66 @@ Copyright © 2008-2024 Powered by wlc743859910. Inc. All Rights Reserved. 我只
 </table>
 
 ---
+
+<p align="center">
+    <a href="https://github.com/wlc743859910/wlc743859910/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/wlc743859910/wlc743859910">
+    </a>
+    <a href="https://github.com/wlc743859910/wlc743859910/graphs/contributors">
+        <img src="https://img.shields.io/github/contributors/wlc743859910/wlc743859910">
+    </a>
+    <a href="https://github.com/wlc743859910/wlc743859910/stargazers">
+        <img src="https://img.shields.io/github/stars/wlc743859910/wlc743859910">
+    </a>
+    <a href="https://github.com/wlc743859910/wlc743859910/forks">
+        <img src="https://img.shields.io/github/forks/wlc743859910/wlc743859910">
+    </a>
+    <a href="https://github.com/wlc743859910/wlc743859910/releases">
+        <img src="https://img.shields.io/github/v/release/wlc743859910/wlc743859910">
+    </a>
+    <a href="https://github.com/wlc743859910/wlc743859910/issues">
+        <img src="https://img.shields.io/github/issues/wlc743859910/wlc743859910">
+    </a>
+    <a href="https://github.com/wlc743859910/wlc743859910/pulls">
+        <img src="https://img.shields.io/github/issues-pr/wlc743859910/wlc743859910">
+    </a>
+</p>
+
+---
+
+### Code Rating
+<img align="left" height="180px" width="auto" src="https://github-readme-stats-mu-lilac-56.vercel.app/api?username=FW27623&hide_title=false&show_icons=true&line_height=21&icon_color=0078e7&title_color=0078e7&locale=en">
+<img align="center" height="180px" width="auto" src="https://github-readme-stats-mu-lilac-56.vercel.app/api/top-langs/?username=FW27623&hide_title=false&show_icons=true&line_height=21&icon_color=0078e7&title_color=0078e7&locale=en">
+<br>
+
+---
+
+### 📊 Weekly Work Status Report
+```text
+摸鱼   🕓 168h0m ██████████████████████████ 100.0%
+干活   🕓 0h0m   ░░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00%
+```
+
+---
+
+### Languages and Frameworks
+<code><img height="23" src="https://hub.gitmirror.com/https://github.com/wlc743859910/wlc743859910/blob/master/img/html.png"></code>
+<code><img height="23" src="https://hub.gitmirror.com/https://github.com/wlc743859910/wlc743859910/blob/master/img/css.png"></code>
+<code><img height="23" src="https://hub.gitmirror.com/https://github.com/wlc743859910/wlc743859910/blob/master/img/javascript.png"></code>
+<code><img height="23" src="https://hub.gitmirror.com/https://github.com/wlc743859910/wlc743859910/blob/master/img/nodejs.png"></code>
+<code><img height="23" src="https://hub.gitmirror.com/https://github.com/wlc743859910/wlc743859910/blob/master/img/python.png"></code>
+
+---
+
+### Tools
+<code><img height="23" src="https://hub.gitmirror.com/https://github.com/wlc743859910/wlc743859910/blob/master/img/git.png"></code>
+<code><img height="23" src="https://hub.gitmirror.com/https://github.com/wlc743859910/wlc743859910/blob/master/img/visual-studio-code.png"></code>
+<code><img height="23" src="https://hub.gitmirror.com/https://github.com/wlc743859910/wlc743859910/blob/master/img/macos.png"></code>
+
+---
+
+### Interested
+<code><img height="23" src="https://hub.gitmirror.com/https://github.com/wlc743859910/wlc743859910/blob/master/img/unity.png"></code>
+<code><img height="23" src="https://hub.gitmirror.com/https://github.com/wlc743859910/wlc743859910/blob/master/img/unreal-engine.png"></code>
+
+---
