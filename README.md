@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 # ✍ 博客与写作
 
-> QQ号：743859910
+> QQ：743859910
 
 > 昵称：我只是你的过客
 
