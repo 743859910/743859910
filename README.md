@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/wlc743859910/wlc743859910/releases"><img src="https://img.shields.io/github/release/wlc743859910/wlc743859910?color=Yellow"></a>
 <a href="https://github.com/wlc743859910/wlc743859910/discussions"><img src="https://img.shields.io/github/discussions/wlc743859910/wlc743859910?color=Yellow"></a>
 <a href="https://github.com/wlc743859910/wlc743859910/watchers"><img src="https://img.shields.io/github/watchers/wlc743859910/wlc743859910?color=Yellow"></a>
-<a href="https://github.com/wlc743859910/wlc743859910/followers"><img src="https://img.shields.io/github/followers/wlc743859910?color=Yellow"></a><br>
+<a href="https://github.com/wlc743859910/followers"><img src="https://img.shields.io/github/followers/wlc743859910?color=Yellow"></a><br>
 </p>
 
 ---
