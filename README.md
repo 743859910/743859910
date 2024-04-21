@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center"><a href="https://www.wlc743859910.cn"><img src="https://hub.gitmirror.com/https://github.com/wlc743859910/wlc743859910/blob/master/img/logo.webp" alt="logo" width="300" /></a></p>
+<p align="center"><a href="https://www.wlc743859910.cn"><img src="https://raw.gitmirror.com/wlc743859910/wlc743859910/blob/master/img/logo.webp" alt="logo" width="300" /></a></p>
 <p align="center"><b>wlc743859910</b></p>
 <p align="center">
 <a href="https://github.com/wlc743859910/wlc743859910/stars"><img src="https://img.shields.io/github/stars/wlc743859910/wlc743859910?color=yellow"></a>
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ---
 
-![PayPal](https://img.shields.io/badge/PayPal-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg) [![QQ](https://img.shields.io/badge/QQ-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://hub.gitmirror.com/https://github.com/wlc743859910/wlc743859910/blob/master/img/QQ.webp) [![微信](https://img.shields.io/badge/微信-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://hub.gitmirror.com/https://github.com/wlc743859910/wlc743859910/blob/master/img/WX.webp) [![支付宝](https://img.shields.io/badge/支付宝-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://hub.gitmirror.com/https://github.com/wlc743859910/wlc743859910/blob/master/img/ZFB.webp) [![爱发电](https://img.shields.io/badge/爱发电-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://hub.gitmirror.com/https://github.com/wlc743859910/wlc743859910/blob/master/img/AFD.webp) [![赞赏码](https://img.shields.io/badge/赞赏码-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://hub.gitmirror.com/https://github.com/wlc743859910/wlc743859910/blob/master/img/ZSM.webp) [![数字人民币](https://img.shields.io/badge/数字人民币-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://hub.gitmirror.com/https://github.com/wlc743859910/wlc743859910/blob/master/img/SZRMB.webp)
+![PayPal](https://img.shields.io/badge/PayPal-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg) [![QQ](https://img.shields.io/badge/QQ-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.gitmirror.com/wlc743859910/wlc743859910/blob/master/img/QQ.webp) [![微信](https://img.shields.io/badge/微信-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.gitmirror.com/wlc743859910/wlc743859910/blob/master/img/WX.webp) [![支付宝](https://img.shields.io/badge/支付宝-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.gitmirror.com/wlc743859910/wlc743859910/blob/master/img/ZFB.webp) [![爱发电](https://img.shields.io/badge/爱发电-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.gitmirror.com/wlc743859910/wlc743859910/blob/master/img/AFD.webp) [![赞赏码](https://img.shields.io/badge/赞赏码-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.gitmirror.com/wlc743859910/wlc743859910/blob/master/img/ZSM.webp) [![数字人民币](https://img.shields.io/badge/数字人民币-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.gitmirror.com/wlc743859910/wlc743859910/blob/master/img/SZRMB.webp)
 
 ---
 
@@ -186,7 +186,7 @@ Here are some ideas to get you started:
 
 # 📈 GitHub 统计主题
 
-<img src="https://hub.gitmirror.com/https://github.com/wlc743859910/wlc743859910/blob/master/img/grs-themes.webp" alt="GitHub Readme Stat Themes" width="888px"/>
+<img src="https://raw.gitmirror.com/wlc743859910/wlc743859910/blob/master/img/grs-themes.webp" alt="GitHub Readme Stat Themes" width="888px"/>
 
 ---
 
@@ -205,23 +205,23 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <img src="https://hub.gitmirror.com/https://github.com/wlc743859910/wlc743859910/blob/master/img/1.webp">
+  <img src="https://raw.gitmirror.com/wlc743859910/wlc743859910/blob/master/img/1.webp">
 </p>
 
 <p align="center">
-  <img src="https://hub.gitmirror.com/https://github.com/wlc743859910/wlc743859910/blob/master/img/2.webp">
+  <img src="https://raw.gitmirror.com/wlc743859910/wlc743859910/blob/master/img/2.webp">
 </p>
 
 <p align="center">
-  <img src="https://hub.gitmirror.com/https://github.com/wlc743859910/wlc743859910/blob/master/img/3.webp">
+  <img src="https://raw.gitmirror.com/wlc743859910/wlc743859910/blob/master/img/3.webp">
 </p>
 
 <p align="center">
-  <img src="https://hub.gitmirror.com/https://github.com/wlc743859910/wlc743859910/blob/master/img/4.webp">
+  <img src="https://raw.gitmirror.com/wlc743859910/wlc743859910/blob/master/img/4.webp">
 </p>
 
 <p align="center">
-  <img src="https://hub.gitmirror.com/https://github.com/wlc743859910/wlc743859910/blob/master/img/5.webp">
+  <img src="https://raw.gitmirror.com/wlc743859910/wlc743859910/blob/master/img/5.webp">
 </p>
 
 ---
@@ -300,23 +300,23 @@ Copyright © 2008-2024 Powered by wlc743859910. Inc. All Rights Reserved. 我只
 ---
 
 ### Languages and Frameworks
-<code><img height="23" src="https://hub.gitmirror.com/https://github.com/wlc743859910/wlc743859910/blob/master/img/html.png"></code>
-<code><img height="23" src="https://hub.gitmirror.com/https://github.com/wlc743859910/wlc743859910/blob/master/img/css.png"></code>
-<code><img height="23" src="https://hub.gitmirror.com/https://github.com/wlc743859910/wlc743859910/blob/master/img/javascript.png"></code>
-<code><img height="23" src="https://hub.gitmirror.com/https://github.com/wlc743859910/wlc743859910/blob/master/img/nodejs.png"></code>
-<code><img height="23" src="https://hub.gitmirror.com/https://github.com/wlc743859910/wlc743859910/blob/master/img/python.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/wlc743859910/wlc743859910/blob/master/img/html.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/wlc743859910/wlc743859910/blob/master/img/css.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/wlc743859910/wlc743859910/blob/master/img/javascript.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/wlc743859910/wlc743859910/blob/master/img/nodejs.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/wlc743859910/wlc743859910/blob/master/img/python.png"></code>
 
 ---
 
 ### Tools
-<code><img height="23" src="https://hub.gitmirror.com/https://github.com/wlc743859910/wlc743859910/blob/master/img/git.png"></code>
-<code><img height="23" src="https://hub.gitmirror.com/https://github.com/wlc743859910/wlc743859910/blob/master/img/visual-studio-code.png"></code>
-<code><img height="23" src="https://hub.gitmirror.com/https://github.com/wlc743859910/wlc743859910/blob/master/img/macos.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/wlc743859910/wlc743859910/blob/master/img/git.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/wlc743859910/wlc743859910/blob/master/img/visual-studio-code.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/wlc743859910/wlc743859910/blob/master/img/macos.png"></code>
 
 ---
 
 ### Interested
-<code><img height="23" src="https://hub.gitmirror.com/https://github.com/wlc743859910/wlc743859910/blob/master/img/unity.png"></code>
-<code><img height="23" src="https://hub.gitmirror.com/https://github.com/wlc743859910/wlc743859910/blob/master/img/unreal-engine.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/wlc743859910/wlc743859910/blob/master/img/unity.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/wlc743859910/wlc743859910/blob/master/img/unreal-engine.png"></code>
 
 ---
