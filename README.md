@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center"><a href="https://www.wlc743859910.cn"><img src="https://raw.gitmirror.com/wlc743859910/wlc743859910/blob/master/img/logo.webp" alt="logo" width="300" /></a></p>
+<p align="center"><a href="https://www.wlc743859910.cn"><img src="https://raw.gitmirror.com/wlc743859910/wlc743859910/master/img/logo.webp" alt="logo" width="300" /></a></p>
 <p align="center"><b>wlc743859910</b></p>
 <p align="center">
 <a href="https://github.com/wlc743859910/wlc743859910/stars"><img src="https://img.shields.io/github/stars/wlc743859910/wlc743859910?color=yellow"></a>
