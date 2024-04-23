@@ -285,8 +285,8 @@ Copyright © 2008-2024 Powered by wlc743859910. Inc. All Rights Reserved. 我只
 ---
 
 ### Code Rating
-<img align="left" height="180px" width="auto" src="https://github-readme-stats-mu-lilac-56.vercel.app/api?username=FW27623&hide_title=false&show_icons=true&line_height=21&icon_color=0078e7&title_color=0078e7&locale=en">
-<img align="center" height="180px" width="auto" src="https://github-readme-stats-mu-lilac-56.vercel.app/api/top-langs/?username=FW27623&hide_title=false&show_icons=true&line_height=21&icon_color=0078e7&title_color=0078e7&locale=en">
+<img align="left" height="180px" width="auto" src="https://github-readme-stats-mu-lilac-56.vercel.app/api?username=wlc743859910&hide_title=false&show_icons=true&line_height=21&icon_color=0078e7&title_color=0078e7&locale=en">
+<img align="center" height="180px" width="auto" src="https://github-readme-stats-mu-lilac-56.vercel.app/api/top-langs/?username=wlc743859910&hide_title=false&show_icons=true&line_height=21&icon_color=0078e7&title_color=0078e7&locale=en">
 <br>
 
 ---
