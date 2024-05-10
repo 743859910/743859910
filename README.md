@@ -84,10 +84,6 @@ Here are some ideas to get you started:
 
 > 我的个人官网：https://www.*******.org/ 规划建设中...计划于2025.2.28正式上线运营
 
-> 我的个人官网：https://www.*******.eu.org/ 规划建设中...计划于2025.2.28正式上线运营
-
-> 我的个人官网：https://www.*******.cn.eu.org/ 规划建设中...计划于2025.2.28正式上线运营
-
 ---
 
 # ✍ 关于我
@@ -102,7 +98,7 @@ Here are some ideas to get you started:
 
 擅长 Ai、Fw、Fl、Br、Ae、Pr、Id、PS 等软件的安装与卸载；
 
-2010年开始做淘宝，截至目前仍然是一家个体工商户、三家商贸公司法定代表人、三家商贸公司股东；
+2010年开始做淘宝，截至目前仍然是一家个体工商户法人、三家商贸公司法人、三家商贸公司股东；
 
 网络时代的爬虫，熟悉 Halo、Hexo、Ghost、Z-blog、Discuz、MacCMS、Typecho、PHPwind、WordPress 等开源程序；
 
