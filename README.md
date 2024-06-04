@@ -198,6 +198,15 @@ Here are some ideas to get you started:
 
 ---
 
+# stars History
+<p align='center'>
+  <a href="https://github.com/743859910/743859910/stargazers">
+    <img src="https://api.star-history.com/svg?repos=743859910/743859910&type=Date">
+  </a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://raw.gitmirror.com/743859910/743859910/master/img/1.webp">
   </a>
@@ -240,15 +249,6 @@ Here are some ideas to get you started:
 MIT License
 
 Copyright © 2008-2024 Powered by 743859910. Inc. All Rights Reserved. 我只是你的过客工作室. 版权所有
-
----
-
-# stars History
-<p align='center'>
-  <a href="https://github.com/743859910/743859910/stargazers">
-    <img src="https://api.star-history.com/svg?repos=743859910/743859910&type=Date">
-  </a>
-</p>
 
 ---
 
