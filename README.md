@@ -208,51 +208,6 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/743859910/master/img/1.webp">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.gitmirror.com/743859910/743859910/master/img/2.webp">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.gitmirror.com/743859910/743859910/master/img/3.webp">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.gitmirror.com/743859910/743859910/master/img/4.webp">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.gitmirror.com/743859910/743859910/master/img/5.webp">
-  </a>
-</p>
-
----
-
-![Visitor Count](https://profile-counter.glitch.me/{743859910}/count.svg)
-
----
-
-昵称：我只是你的过客
-
-个性签名：每个人都是每个人的过客
-
-国籍：中华人民共和国 / 现居：中国湖北省武汉市
-
----
-
-MIT License
-
-Copyright © 2008-2024 Powered by 743859910. Inc. All Rights Reserved. 我只是你的过客工作室. 版权所有
-
----
-
-<p align="center">
     <a href="https://github.com/743859910/743859910/blob/main/LICENSE">
         <img src="https://img.shields.io/github/license/743859910/743859910">
     </a>
@@ -315,6 +270,14 @@ Copyright © 2008-2024 Powered by 743859910. Inc. All Rights Reserved. 我只是
 
 ---
 
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910.github.io/master/img/html.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910.github.io/master/img/css.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910.github.io/master/img/javascript.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910.github.io/master/img/nodejs.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910.github.io/master/img/python.png"></code>
+
+---
+
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20743859910!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
@@ -357,6 +320,51 @@ Copyright © 2008-2024 Powered by 743859910. Inc. All Rights Reserved. 我只是
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://raw.gitmirror.com/743859910/743859910/master/img/1.webp">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.gitmirror.com/743859910/743859910/master/img/2.webp">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.gitmirror.com/743859910/743859910/master/img/3.webp">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.gitmirror.com/743859910/743859910/master/img/4.webp">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.gitmirror.com/743859910/743859910/master/img/5.webp">
+  </a>
+</p>
+
+---
+
+![Visitor Count](https://profile-counter.glitch.me/{743859910}/count.svg)
+
+---
+
+昵称：我只是你的过客
+
+个性签名：每个人都是每个人的过客
+
+国籍：中华人民共和国 / 现居：中国湖北省武汉市
+
+---
+
+MIT License
+
+Copyright © 2008-2024 Powered by 743859910. Inc. All Rights Reserved. 我只是你的过客工作室. 版权所有
 
 ---
 
