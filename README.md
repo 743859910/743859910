@@ -233,14 +233,14 @@ Here are some ideas to get you started:
 
 ---
 
-### Code Rating
+# Code Rating
 <img align="left" height="180px" width="auto" src="https://github-readme-stats-mu-lilac-56.vercel.app/api?username=743859910&hide_title=false&show_icons=true&line_height=21&icon_color=0078e7&title_color=0078e7&locale=en">
 <img align="center" height="180px" width="auto" src="https://github-readme-stats-mu-lilac-56.vercel.app/api/top-langs/?username=743859910&hide_title=false&show_icons=true&line_height=21&icon_color=0078e7&title_color=0078e7&locale=en">
 <br>
 
 ---
 
-### 📊 Weekly Work Status Report
+# 📊 Weekly Work Status Report
 ```text
 摸鱼   🕓 168h0m ██████████████████████████ 100.0%
 干活   🕓 0h0m   ░░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00%
@@ -248,7 +248,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Languages and Frameworks
+# Languages and Frameworks
 <code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/html.png"></code>
 <code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/css.png"></code>
 <code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/javascript.png"></code>
@@ -257,14 +257,14 @@ Here are some ideas to get you started:
 
 ---
 
-### Tools
+# Tools
 <code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/git.png"></code>
 <code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/visual-studio-code.png"></code>
 <code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/macos.png"></code>
 
 ---
 
-### Interested
+# Interested
 <code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/unity.png"></code>
 <code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/unreal-engine.png"></code>
 
@@ -320,6 +320,19 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
+
+---
+
+<details><summary><strong> [点击展开] 赞赏支持 ~🧧</strong></summary>
+
+*我非常感谢您的赞赏和支持，它们将极大地激励我继续创新，持续产生有价值的工作。*
+- **123:** `123456789`
+- **123:** `123456789`
+  
+
+🎁 **您的支持是我不断前进的动力！** 💖
+
+</details>
 
 ---
 
