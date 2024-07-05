@@ -339,19 +339,19 @@ Here are some ideas to get you started:
 
 *我非常感谢您的赞赏和支持，它们将极大地激励我继续创新，持续产生有价值的工作。*
 
-- **QQ赞助**
+- *QQ赞助*
 
-[![Alipay](https://raw.gitmirror.com/743859910/743859910/master/img/1.webp)](https://raw.gitmirror.com/743859910/743859910/master/img/WeChat.webp)
+[![Alipay](https://raw.gitmirror.com/743859910/743859910/master/img/QQ.webp)](https://raw.gitmirror.com/743859910/743859910/master/img/QQ.webp)
 
-- **微信赞助**
+- *微信赞助*
 
-[![Alipay](https://raw.gitmirror.com/743859910/743859910/master/img/1.webp)](https://raw.gitmirror.com/743859910/743859910/master/img/WeChat.webp)
+[![Alipay](https://raw.gitmirror.com/743859910/743859910/master/img/WeChat.webp)](https://raw.gitmirror.com/743859910/743859910/master/img/WeChat.webp)
 
-- **支付宝赞助**
+- *支付宝赞助*
 
-[![Alipay](https://raw.gitmirror.com/743859910/743859910/master/img/1.webp)](https://raw.gitmirror.com/743859910/743859910/master/img/WeChat.webp)
+[![Alipay](https://raw.gitmirror.com/743859910/743859910/master/img/Alipay.webp)](https://raw.gitmirror.com/743859910/743859910/master/img/Alipay.webp)
 
-🎁 **您的支持是我不断前进的动力！** 💖
+🎁 *您的支持是我不断前进的动力！* 💖
 
 </details>
 
@@ -359,9 +359,29 @@ Here are some ideas to get you started:
 
 # 赞助者
 
+| *QQ赞助* | *微信赞助* | *支付宝赞助* |
+| :------: | :--------: | :----------: |
+|          |            |              |
+|          |            |              |
+|          |            |              |
+|          |            |              |
+|          |            |              |
+|          |            |              |
+|          |            |              |
+
 ---
 
 # 贡献者
+
+|      |      |      |
+| :--: | :--: | :--: |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
 
 ---
 
@@ -424,6 +444,6 @@ Copyright © 2008-2024 Powered by 743859910. Inc. All Rights Reserved. 我只是
 - 本程序通过调用官方sdk/接口实现，无破坏官方接口行为；
 - 本程序仅做302重定向/流量转发，不拦截、存储、篡改任何用户数据；
 - 在使用本程序之前，你应了解并承担相应的风险，包括但不限于账号被ban，下载限速等，与本程序无关；
-- 如有侵权，请通过[邮件](mailto:i@nn.ci)与我联系，会及时处理。
+- 如有侵权，请通过[邮件](743859910#qq.com)与我联系，会及时处理。
 
 ---
