@@ -341,11 +341,11 @@ Here are some ideas to get you started:
 
 - *QQ赞助*
 
-[![Alipay](https://raw.gitmirror.com/743859910/743859910/master/img/QQ.webp)](https://raw.gitmirror.com/743859910/743859910/master/img/QQ.webp)
+[![QQ](https://raw.gitmirror.com/743859910/743859910/master/img/QQ.webp)](https://raw.gitmirror.com/743859910/743859910/master/img/QQ.webp)
 
 - *微信赞助*
 
-[![Alipay](https://raw.gitmirror.com/743859910/743859910/master/img/WeChat.webp)](https://raw.gitmirror.com/743859910/743859910/master/img/WeChat.webp)
+[![WeChat](https://raw.gitmirror.com/743859910/743859910/master/img/WeChat.webp)](https://raw.gitmirror.com/743859910/743859910/master/img/WeChat.webp)
 
 - *支付宝赞助*
 
