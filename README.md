@@ -280,11 +280,11 @@ Here are some ideas to get you started:
 
 ---
 
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910.github.io/master/img/html.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910.github.io/master/img/css.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910.github.io/master/img/javascript.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910.github.io/master/img/nodejs.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910.github.io/master/img/python.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/html.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/css.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/javascript.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/nodejs.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/python.png"></code>
 
 ---
 
@@ -340,16 +340,13 @@ Here are some ideas to get you started:
 *我非常感谢您的赞赏和支持，它们将极大地激励我继续创新，持续产生有价值的工作。*
 
 - *QQ赞助*
-
-[![QQ](https://raw.gitmirror.com/743859910/743859910/master/img/QQ.webp)](https://raw.gitmirror.com/743859910/743859910/master/img/QQ.webp)
+[点击这里打开QQ赞赏码](https://raw.gitmirror.com/743859910/743859910/master/img/QQ.webp)
 
 - *微信赞助*
-
-[![WeChat](https://raw.gitmirror.com/743859910/743859910/master/img/WeChat.webp)](https://raw.gitmirror.com/743859910/743859910/master/img/WeChat.webp)
+[点击这里打开微信赞赏码](https://raw.gitmirror.com/743859910/743859910/master/img/WeChat.webp)
 
 - *支付宝赞助*
-
-[![Alipay](https://raw.gitmirror.com/743859910/743859910/master/img/Alipay.webp)](https://raw.gitmirror.com/743859910/743859910/master/img/Alipay.webp)
+[点击这里打开支付宝赞赏码](https://raw.gitmirror.com/743859910/743859910/master/img/Alipay.webp)
 
 🎁 *您的支持是我不断前进的动力！* 💖
 
@@ -359,29 +356,9 @@ Here are some ideas to get you started:
 
 # 赞助者
 
-| *QQ赞助* | *微信赞助* | *支付宝赞助* |
-| :------: | :--------: | :----------: |
-|          |            |              |
-|          |            |              |
-|          |            |              |
-|          |            |              |
-|          |            |              |
-|          |            |              |
-|          |            |              |
-
 ---
 
 # 贡献者
-
-|      |      |      |
-| :--: | :--: | :--: |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
 
 ---
 
