@@ -340,12 +340,15 @@ Here are some ideas to get you started:
 *我非常感谢您的赞赏和支持，它们将极大地激励我继续创新，持续产生有价值的工作。*
 
 - **QQ赞助**
+
 [![Alipay](https://raw.gitmirror.com/743859910/743859910/master/img/1.webp)](https://raw.gitmirror.com/743859910/743859910/master/img/WeChat.webp)
 
 - **微信赞助**
+
 [![Alipay](https://raw.gitmirror.com/743859910/743859910/master/img/1.webp)](https://raw.gitmirror.com/743859910/743859910/master/img/WeChat.webp)
 
 - **支付宝赞助**
+
 [![Alipay](https://raw.gitmirror.com/743859910/743859910/master/img/1.webp)](https://raw.gitmirror.com/743859910/743859910/master/img/WeChat.webp)
 
 🎁 **您的支持是我不断前进的动力！** 💖
