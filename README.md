@@ -293,11 +293,12 @@ Here are some ideas to get you started:
 ---
 
 <!-- https://github.com/kyechan99/capsule-render -->
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20743859910!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
-
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
 </p>
@@ -426,5 +427,106 @@ Copyright © 2008-2024 Powered by 743859910. Inc. All Rights Reserved. 我只是
 - 本程序仅做302重定向/流量转发，不拦截、存储、篡改任何用户数据；
 - 在使用本程序之前，你应了解并承担相应的风险，包括但不限于账号被ban，下载限速等，与本程序无关；
 - 如有侵权，请通过[邮件](743859910#qq.com)与我联系，会及时处理。
+
+---
+
+# 许可
+
+Ultralytics 提供两种许可选项以适应各种用例：
+
+- **AGPL-3.0 许可**：这是一个 [OSI 批准](https://opensource.org/license) 的开源许可，适合学生和爱好者，促进开放协作和知识共享。有关详细信息，请参阅 [LICENSE](https://github.com/ultralytics/ultralytics/blob/main/LICENSE) 文件。
+- **企业许可**：专为商业使用设计，此许可允许将 Ultralytics 软件和 AI 模型无缝集成到商业产品和服务中，无需满足 AGPL-3.0 的开源要求。如果您的场景涉及将我们的解决方案嵌入到商业产品，请通过 [Ultralytics Licensing](https://www.ultralytics.com/license) 联系我们。
+
+---
+
+# 联系
+
+如需 Ultralytics 的错误报告和功能请求，请访问 [GitHub Issues](https://github.com/ultralytics/ultralytics/issues)。成为 Ultralytics [Discord](https://discord.com/invite/ultralytics)、[Reddit](https://www.reddit.com/r/ultralytics/) 或 [论坛](https://community.ultralytics.com/) 的成员，提出问题、分享项目、探讨学习讨论，或寻求所有 Ultralytics 相关的帮助！
+
+---
+
+<br>
+<div align="center">
+  <a href="https://github.com/ultralytics"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-github.png" width="3%" alt="Ultralytics GitHub"></a>
+  <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
+  <a href="https://www.linkedin.com/company/ultralytics/"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-linkedin.png" width="3%" alt="Ultralytics LinkedIn"></a>
+  <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
+  <a href="https://twitter.com/ultralytics"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-twitter.png" width="3%" alt="Ultralytics Twitter"></a>
+  <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
+  <a href="https://youtube.com/ultralytics?sub_confirmation=1"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-youtube.png" width="3%" alt="Ultralytics YouTube"></a>
+  <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
+  <a href="https://www.tiktok.com/@ultralytics"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-tiktok.png" width="3%" alt="Ultralytics TikTok"></a>
+  <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
+  <a href="https://ultralytics.com/bilibili"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-bilibili.png" width="3%" alt="Ultralytics BiliBili"></a>
+  <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
+  <a href="https://discord.com/invite/ultralytics"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-discord.png" width="3%" alt="Ultralytics Discord"></a>
+</div>
+
+---
+
+<div align="center">
+
+  <div align="center">
+    <a href="https://index.kasuie.cc/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <a href="https://twitter.com/kasuie3/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+    <a href="https://space.bilibili.com/85447052/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <img src="https://komarev.com/ghpvc/?username=kasuie&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  </div>
+
+---
+
+<div align="center" >
+
+<img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kasuie&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kasuie&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+
+---
+
+<div align="center">
+
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=kasuie&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=HibiKier&include_all_commits=true&count_private-true&custom_title=HibiKier%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HibiKier&layout=compact&langs_count=6&text_color=70bed9&icon_color=fff&title_color=efb752&bg_color=192133&theme=graywhite" /></td>
+  </tr>
+</table>
+
+---
+
+![](https://raw.githubusercontent.com/gouzil/gouzil/output/github-contribution-grid-snake.svg)
+
+---
+
+<table>
+    <tr>
+        <td >
+            <center><img src="https://github-readme-stats.vercel.app/api?username=sqlsec&show_icons=true&hide_border=true&theme=chartreuse-dark" ></center>
+        </td>
+        <td >
+            <center><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sqlsec&theme=github_dark&show_icons=true" align="right" /></center>
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td >
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sqlsec&theme=vue" ></center>
+        </td>
+        <td >
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sqlsec&theme=github&utcOffset=8" align="right" /></center>
+        </td>
+        <td >
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sqlsec&theme=vue" align="right" /></center>
+        </td>
+    </tr>
+</table>
 
 ---
