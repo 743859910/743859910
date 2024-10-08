@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 
 网络时代的爬虫，熟悉 Halo、Hexo、Ghost、Z-blog、Discuz、MacCMS、Typecho、PHPwind、WordPress 等开源程序；
 
-熟悉 IOS、Unix、Linux、MacOS、Android、SteamOS、HyperOS、Windows、ChromeOS、HarmonyOS 等系统的开关机；
+熟悉 IOS、Unix、Linux、MacOS、Android、SteamOS、HyperOS、Windows、ChromeOS、HarmonyOS、HarmonyOS NEXT 等系统的开关机；
 
 精通 C、C#、CSS、PHP、java、Lisp、C＋＋、Python、Ruby、Perl、JavaScript、Objective-C、ActionScript 等单词的拼写；
 
