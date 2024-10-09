@@ -102,9 +102,9 @@ Here are some ideas to get you started:
 
 网络时代的爬虫，熟悉 Halo、Hexo、Ghost、Z-blog、Discuz、MacCMS、Typecho、PHPwind、WordPress 等开源程序；
 
-熟悉 IOS、Unix、Linux、MacOS、Android、SteamOS、HyperOS、Windows、ChromeOS、HarmonyOS、HarmonyOS NEXT 等系统的开关机；
-
 精通 C、C#、CSS、PHP、java、Lisp、C＋＋、Python、Ruby、Perl、JavaScript、Objective-C、ActionScript 等单词的拼写；
+
+熟悉 IOS、Unix、Linux、MacOS、Android、SteamOS、HyperOS、Windows、ChromeOS、HarmonyOS、HarmonyOS NEXT 等系统的开关机；
 
 更是 迅雷、腾讯、优酷、爱奇艺、美团、京东、拼多多、阿里云盘、百度云盘、哔哩哔哩 等多家平台VIP会员/SVIP会员，其实我也想低调，但实力不允许啊...
 
