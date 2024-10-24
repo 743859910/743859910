@@ -354,7 +354,7 @@ Here are some ideas to get you started:
 [点击这里打开支付宝赞赏码]()
 
 - *微信赞赏码*
-[点击这里打开微信赞赏码](https://github.com/743859910/743859910/blob/2997a7971c3140986b9ffe585f77f6cd78eb39d0/img/WeChat.webp)
+[点击这里打开微信赞赏码](https://raw.githubusercontent.com/743859910/743859910/2997a7971c3140986b9ffe585f77f6cd78eb39d0/img/WeChat.webp)
 
 🎁 *您的支持是我不断前进的动力！* 💖
 
