@@ -470,18 +470,18 @@ Ultralytics 提供两种许可选项以适应各种用例：
 <div align="center">
 
   <div align="center">
-    <a href="https://index.kasuie.cc/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href="https://twitter.com/kasuie3/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+    <a href="https://index.743859910.cc/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <a href="https://twitter.com/743859910/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://space.bilibili.com/85447052/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <img src="https://komarev.com/ghpvc/?username=kasuie&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <img src="https://komarev.com/ghpvc/?username=743859910&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 
 ---
 
 <div align="center" >
 
-<img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kasuie&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kasuie&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=743859910&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=743859910&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
 ---
 
@@ -489,15 +489,15 @@ Ultralytics 提供两种许可选项以适应各种用例：
 
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=kasuie&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
+    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=743859910&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
   </tr>
 </table>
 
 ---
 
 <div align="center">
-  <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=HibiKier&include_all_commits=true&count_private-true&custom_title=HibiKier%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HibiKier&layout=compact&langs_count=6&text_color=70bed9&icon_color=fff&title_color=efb752&bg_color=192133&theme=graywhite" /></td>
+  <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=743859910&include_all_commits=true&count_private-true&custom_title=743859910%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=743859910&layout=compact&langs_count=6&text_color=70bed9&icon_color=fff&title_color=efb752&bg_color=192133&theme=graywhite" /></td>
   </tr>
 </table>
 
