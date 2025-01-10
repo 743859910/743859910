@@ -338,105 +338,6 @@ Here are some ideas to get you started:
 
 ---
 
-# 赞助🧧
-
-🎁 *您的支持是我不断前进的动力！* 💖
-
-<p align="center">
-  <img src="https://raw.gitmirror.com/743859910/743859910/master/img/appreciate.webp">
-  </a>
-</p>
-
-*我非常感谢您的赞赏和支持，它们将极大地激励我继续创新，持续产生有价值的工作。*
-
----
-
-# 赞助者
-
----
-
-# 贡献者
-
----
-
-<p align="center">
-  <img src="https://raw.gitmirror.com/743859910/743859910/master/img/1.webp">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.gitmirror.com/743859910/743859910/master/img/2.webp">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.gitmirror.com/743859910/743859910/master/img/3.webp">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.gitmirror.com/743859910/743859910/master/img/4.webp">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.gitmirror.com/743859910/743859910/master/img/5.webp">
-  </a>
-</p>
-
----
-
-![Visitor Count](https://profile-counter.glitch.me/{743859910}/count.svg)
-
----
-
-昵称：我只是你的过客
-
-个性签名：每个人都是每个人的过客
-
-国籍：中华人民共和国 / 现居：中国湖北省武汉市
-
----
-
-# 开源协议
-
-[MIT License](https://github.com/743859910/743859910/blob/master/LICENSE)
-
-Copyright © 2008-2025 Powered by 743859910. Inc. All Rights Reserved. 我只是你的过客工作室. 版权所有
-
----
-
-# 免责声明：
-- 本项目的所有功能都是基于互联网上公开的资料开发，无任何破解、逆向工程等行为。
-- 本项目仅用于学习交流编程技术，严禁将本项目用于商业目的。如有任何商业行为，均与本项目无关。
-- 如果本项目存在侵犯您的合法权益的情况，请及时与开发者联系，开发者将会及时删除有关内容。
-
----
-
-# 免责声明：
-- 本程序为免费开源项目，旨在分享网盘文件，方便下载以及学习golang，使用时请遵守相关法律法规，请勿滥用；
-- 本程序通过调用官方sdk/接口实现，无破坏官方接口行为；
-- 本程序仅做302重定向/流量转发，不拦截、存储、篡改任何用户数据；
-- 在使用本程序之前，你应了解并承担相应的风险，包括但不限于账号被ban，下载限速等，与本程序无关；
-- 如有侵权，请通过[邮件](743859910#qq.com)与我联系，会及时处理。
-
----
-
-# 许可
-
-Ultralytics 提供两种许可选项以适应各种用例：
-
-- **AGPL-3.0 许可**：这是一个 [OSI 批准](https://opensource.org/license) 的开源许可，适合学生和爱好者，促进开放协作和知识共享。有关详细信息，请参阅 [LICENSE](https://github.com/ultralytics/ultralytics/blob/main/LICENSE) 文件。
-- **企业许可**：专为商业使用设计，此许可允许将 Ultralytics 软件和 AI 模型无缝集成到商业产品和服务中，无需满足 AGPL-3.0 的开源要求。如果您的场景涉及将我们的解决方案嵌入到商业产品，请通过 [Ultralytics Licensing](https://www.ultralytics.com/license) 联系我们。
-
----
-
-# 联系
-
-如需 Ultralytics 的错误报告和功能请求，请访问 [GitHub Issues](https://github.com/ultralytics/ultralytics/issues)。成为 Ultralytics [Discord](https://discord.com/invite/ultralytics)、[Reddit](https://www.reddit.com/r/ultralytics/) 或 [论坛](https://community.ultralytics.com/) 的成员，提出问题、分享项目、探讨学习讨论，或寻求所有 Ultralytics 相关的帮助！
-
----
-
 <br>
 <div align="center">
   <a href="https://github.com/ultralytics"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-github.png" width="3%" alt="Ultralytics GitHub"></a>
@@ -520,5 +421,104 @@ Ultralytics 提供两种许可选项以适应各种用例：
         </td>
     </tr>
 </table>
+
+---
+
+# 免责声明：
+- 本项目的所有功能都是基于互联网上公开的资料开发，无任何破解、逆向工程等行为。
+- 本项目仅用于学习交流编程技术，严禁将本项目用于商业目的。如有任何商业行为，均与本项目无关。
+- 如果本项目存在侵犯您的合法权益的情况，请及时与开发者联系，开发者将会及时删除有关内容。
+
+---
+
+# 免责声明：
+- 本程序为免费开源项目，旨在分享网盘文件，方便下载以及学习golang，使用时请遵守相关法律法规，请勿滥用；
+- 本程序通过调用官方sdk/接口实现，无破坏官方接口行为；
+- 本程序仅做302重定向/流量转发，不拦截、存储、篡改任何用户数据；
+- 在使用本程序之前，你应了解并承担相应的风险，包括但不限于账号被ban，下载限速等，与本程序无关；
+- 如有侵权，请通过[邮件](743859910#qq.com)与我联系，会及时处理。
+
+---
+
+# 许可
+
+Ultralytics 提供两种许可选项以适应各种用例：
+
+- **AGPL-3.0 许可**：这是一个 [OSI 批准](https://opensource.org/license) 的开源许可，适合学生和爱好者，促进开放协作和知识共享。有关详细信息，请参阅 [LICENSE](https://github.com/ultralytics/ultralytics/blob/main/LICENSE) 文件。
+- **企业许可**：专为商业使用设计，此许可允许将 Ultralytics 软件和 AI 模型无缝集成到商业产品和服务中，无需满足 AGPL-3.0 的开源要求。如果您的场景涉及将我们的解决方案嵌入到商业产品，请通过 [Ultralytics Licensing](https://www.ultralytics.com/license) 联系我们。
+
+---
+
+# 联系
+
+如需 Ultralytics 的错误报告和功能请求，请访问 [GitHub Issues](https://github.com/ultralytics/ultralytics/issues)。成为 Ultralytics [Discord](https://discord.com/invite/ultralytics)、[Reddit](https://www.reddit.com/r/ultralytics/) 或 [论坛](https://community.ultralytics.com/) 的成员，提出问题、分享项目、探讨学习讨论，或寻求所有 Ultralytics 相关的帮助！
+
+---
+
+# 赞助🧧
+
+🎁 *您的支持是我不断前进的动力！* 💖
+
+<p align="center">
+  <img src="https://raw.gitmirror.com/743859910/743859910/master/img/appreciate.webp">
+  </a>
+</p>
+
+*我非常感谢您的赞赏和支持，它们将极大地激励我继续创新，持续产生有价值的工作。*
+
+---
+
+# 赞助者
+
+---
+
+# 贡献者
+
+---
+
+<p align="center">
+  <img src="https://raw.gitmirror.com/743859910/743859910/master/img/1.webp">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.gitmirror.com/743859910/743859910/master/img/2.webp">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.gitmirror.com/743859910/743859910/master/img/3.webp">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.gitmirror.com/743859910/743859910/master/img/4.webp">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.gitmirror.com/743859910/743859910/master/img/5.webp">
+  </a>
+</p>
+
+---
+
+![Visitor Count](https://profile-counter.glitch.me/{743859910}/count.svg)
+
+---
+
+昵称：我只是你的过客
+
+个性签名：每个人都是每个人的过客
+
+国籍：中华人民共和国 / 现居：中国湖北省武汉市
+
+---
+
+# 开源协议
+
+[MIT License](https://github.com/743859910/743859910/blob/master/LICENSE)
+
+Copyright © 2008-2025 Powered by 743859910. Inc. All Rights Reserved. 我只是你的过客工作室. 版权所有
 
 ---
