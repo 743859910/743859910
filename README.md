@@ -182,116 +182,6 @@ Here are some ideas to get you started:
 
 ---
 
-# 📈 GitHub 统计主题
-
-<img src="https://raw.gitmirror.com/743859910/743859910/master/img/grs-themes.webp" alt="GitHub Readme Stat Themes" width="888px"/>
-
----
-
-# 🔧 技术与工具
-
-<table>
-    <tr>
-        <td >
-<p align="center">
-<img src="https://img.shields.io/badge/Git-%2337BA8D?logo=Git"><img src="https://img.shields.io/badge/GitHub-%2337BA8D?logo=GitHub"><img src="https://img.shields.io/badge/Gitee-%2337BA8D?logo=Gitee"><img src="https://img.shields.io/badge/Gitea-%2337BA8D?logo=Gitea"><img src="https://img.shields.io/badge/GitLab-%2337BA8D?logo=GitLab"><img src="https://img.shields.io/badge/Linux-%2337BA8D?logo=Linux"><img src="https://img.shields.io/badge/CentOS-%2337BA8D?logo=CentOS"><img src="https://img.shields.io/badge/CentOS Stream-%2337BA8D?logo=CentOS"><img src="https://img.shields.io/badge/Deepin-%2337BA8D?logo=Deepin"><img src="https://img.shields.io/badge/Google-%2337BA8D?logo=Google"><img src="https://img.shields.io/badge/Google Chrome-%2337BA8D?logo=Google-Chrome"><img src="https://img.shields.io/badge/Microsoft Edge-%2337BA8D?logo=Microsoft-Edge"><img src="https://img.shields.io/badge/Android-%2337BA8D?logo=Android"><img src="https://img.shields.io/badge/iOS-%2337BA8D?logo=iOS"><img src="https://img.shields.io/badge/MacOS-%2337BA8D?logo=MacOS"><img src="https://img.shields.io/badge/Windows-%2337BA8D?logo=Windows"><img src="https://img.shields.io/badge/Apache-%2337BA8D?logo=Apache"><img src="https://img.shields.io/badge/Python-%2337BA8D?logo=Python"><img src="https://img.shields.io/badge/Docker-%2337BA8D?logo=Docker"><img src="https://img.shields.io/badge/Nginx-%2337BA8D?logo=Nginx"><img src="https://img.shields.io/badge/phpMyAdmin-%2337BA8D?logo=phpMyAdmin"><img src="https://img.shields.io/badge/CSS3-%2337BA8D?logo=CSS3"><img src="https://img.shields.io/badge/HTML5-%2337BA8D?logo=HTML5"><img src="https://img.shields.io/badge/MySQL-%2337BA8D?logo=MySQL"><img src="https://img.shields.io/badge/PHP-%2337BA8D?logo=PHP"><img src="https://img.shields.io/badge/MongoDB-%2337BA8D?logo=MongoDB"><img src="https://img.shields.io/badge/Go-%2337BA8D?logo=Go"><img src="https://img.shields.io/badge/Swift-%2337BA8D?logo=Swift"><img src="https://img.shields.io/badge/Shell-%2337BA8D?logo=Shell"><img src="https://img.shields.io/badge/PowerShell-%2337BA8D?logo=PowerShell"><img src="https://img.shields.io/badge/JavaScript-%2337BA8D?logo=JavaScript"><img src="https://img.shields.io/badge/Twitter-%2337BA8D?logo=Twitter"><img src="https://img.shields.io/badge/Facebook-%2337BA8D?logo=Facebook"><img src="https://img.shields.io/badge/YouTube-%2337BA8D?logo=YouTube"><img src="https://img.shields.io/badge/linkedin-%2337BA8D?logo=linkedin">
-        </center>
-        </td>
-    </tr>
-</table>
-
----
-
-# stars History
-<p align='center'>
-  <a href="https://github.com/743859910/743859910/stargazers">
-    <img src="https://api.star-history.com/svg?repos=743859910/743859910&type=Date">
-  </a>
-</p>
-
----
-
-# Star 趋势
-
-[![Star History Chart](https://api.star-history.com/svg?repos=743859910/743859910&type=Timeline)](https://star-history.com/#743859910/743859910&Timeline)
-
-# Star History
-
-[![Stars](https://starchart.cc/743859910/743859910.svg)](https://starchart.cc/743859910/743859910)
-
----
-
-<p align="center">
-    <a href="https://github.com/743859910/743859910/blob/main/LICENSE">
-        <img src="https://img.shields.io/github/license/743859910/743859910">
-    </a>
-    <a href="https://github.com/743859910/743859910/graphs/contributors">
-        <img src="https://img.shields.io/github/contributors/743859910/743859910">
-    </a>
-    <a href="https://github.com/743859910/743859910/stargazers">
-        <img src="https://img.shields.io/github/stars/743859910/743859910">
-    </a>
-    <a href="https://github.com/743859910/743859910/forks">
-        <img src="https://img.shields.io/github/forks/743859910/743859910">
-    </a>
-    <a href="https://github.com/743859910/743859910/releases">
-        <img src="https://img.shields.io/github/v/release/743859910/743859910">
-    </a>
-    <a href="https://github.com/743859910/743859910/issues">
-        <img src="https://img.shields.io/github/issues/743859910/743859910">
-    </a>
-    <a href="https://github.com/743859910/743859910/pulls">
-        <img src="https://img.shields.io/github/issues-pr/743859910/743859910">
-    </a>
-</p>
-
----
-
-# Code Rating
-<img align="left" height="180px" width="auto" src="https://github-readme-stats-mu-lilac-56.vercel.app/api?username=743859910&hide_title=false&show_icons=true&line_height=21&icon_color=0078e7&title_color=0078e7&locale=en">
-<img align="center" height="180px" width="auto" src="https://github-readme-stats-mu-lilac-56.vercel.app/api/top-langs/?username=743859910&hide_title=false&show_icons=true&line_height=21&icon_color=0078e7&title_color=0078e7&locale=en">
-<br>
-
----
-
-# 📊 Weekly Work Status Report
-```text
-摸鱼   🕓 168h0m ██████████████████████████ 100.0%
-干活   🕓 0h0m   ░░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00%
-```
-
----
-
-# Languages and Frameworks
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/html.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/css.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/javascript.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/nodejs.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/python.png"></code>
-
----
-
-# Tools
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/git.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/visual-studio-code.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/macos.png"></code>
-
----
-
-# Interested
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/unity.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/unreal-engine.png"></code>
-
----
-
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/html.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/css.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/javascript.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/nodejs.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/python.png"></code>
-
----
-
 <!-- https://github.com/kyechan99/capsule-render -->
 
 <p align="center">
@@ -421,6 +311,116 @@ Here are some ideas to get you started:
         </td>
     </tr>
 </table>
+
+---
+
+# 📈 GitHub 统计主题
+
+<img src="https://raw.gitmirror.com/743859910/743859910/master/img/grs-themes.webp" alt="GitHub Readme Stat Themes" width="888px"/>
+
+---
+
+# 🔧 技术与工具
+
+<table>
+    <tr>
+        <td >
+<p align="center">
+<img src="https://img.shields.io/badge/Git-%2337BA8D?logo=Git"><img src="https://img.shields.io/badge/GitHub-%2337BA8D?logo=GitHub"><img src="https://img.shields.io/badge/Gitee-%2337BA8D?logo=Gitee"><img src="https://img.shields.io/badge/Gitea-%2337BA8D?logo=Gitea"><img src="https://img.shields.io/badge/GitLab-%2337BA8D?logo=GitLab"><img src="https://img.shields.io/badge/Linux-%2337BA8D?logo=Linux"><img src="https://img.shields.io/badge/CentOS-%2337BA8D?logo=CentOS"><img src="https://img.shields.io/badge/CentOS Stream-%2337BA8D?logo=CentOS"><img src="https://img.shields.io/badge/Deepin-%2337BA8D?logo=Deepin"><img src="https://img.shields.io/badge/Google-%2337BA8D?logo=Google"><img src="https://img.shields.io/badge/Google Chrome-%2337BA8D?logo=Google-Chrome"><img src="https://img.shields.io/badge/Microsoft Edge-%2337BA8D?logo=Microsoft-Edge"><img src="https://img.shields.io/badge/Android-%2337BA8D?logo=Android"><img src="https://img.shields.io/badge/iOS-%2337BA8D?logo=iOS"><img src="https://img.shields.io/badge/MacOS-%2337BA8D?logo=MacOS"><img src="https://img.shields.io/badge/Windows-%2337BA8D?logo=Windows"><img src="https://img.shields.io/badge/Apache-%2337BA8D?logo=Apache"><img src="https://img.shields.io/badge/Python-%2337BA8D?logo=Python"><img src="https://img.shields.io/badge/Docker-%2337BA8D?logo=Docker"><img src="https://img.shields.io/badge/Nginx-%2337BA8D?logo=Nginx"><img src="https://img.shields.io/badge/phpMyAdmin-%2337BA8D?logo=phpMyAdmin"><img src="https://img.shields.io/badge/CSS3-%2337BA8D?logo=CSS3"><img src="https://img.shields.io/badge/HTML5-%2337BA8D?logo=HTML5"><img src="https://img.shields.io/badge/MySQL-%2337BA8D?logo=MySQL"><img src="https://img.shields.io/badge/PHP-%2337BA8D?logo=PHP"><img src="https://img.shields.io/badge/MongoDB-%2337BA8D?logo=MongoDB"><img src="https://img.shields.io/badge/Go-%2337BA8D?logo=Go"><img src="https://img.shields.io/badge/Swift-%2337BA8D?logo=Swift"><img src="https://img.shields.io/badge/Shell-%2337BA8D?logo=Shell"><img src="https://img.shields.io/badge/PowerShell-%2337BA8D?logo=PowerShell"><img src="https://img.shields.io/badge/JavaScript-%2337BA8D?logo=JavaScript"><img src="https://img.shields.io/badge/Twitter-%2337BA8D?logo=Twitter"><img src="https://img.shields.io/badge/Facebook-%2337BA8D?logo=Facebook"><img src="https://img.shields.io/badge/YouTube-%2337BA8D?logo=YouTube"><img src="https://img.shields.io/badge/linkedin-%2337BA8D?logo=linkedin">
+        </center>
+        </td>
+    </tr>
+</table>
+
+---
+
+# stars History
+<p align='center'>
+  <a href="https://github.com/743859910/743859910/stargazers">
+    <img src="https://api.star-history.com/svg?repos=743859910/743859910&type=Date">
+  </a>
+</p>
+
+---
+
+# Star 趋势
+
+[![Star History Chart](https://api.star-history.com/svg?repos=743859910/743859910&type=Timeline)](https://star-history.com/#743859910/743859910&Timeline)
+
+# Star History
+
+[![Stars](https://starchart.cc/743859910/743859910.svg)](https://starchart.cc/743859910/743859910)
+
+---
+
+<p align="center">
+    <a href="https://github.com/743859910/743859910/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/743859910/743859910">
+    </a>
+    <a href="https://github.com/743859910/743859910/graphs/contributors">
+        <img src="https://img.shields.io/github/contributors/743859910/743859910">
+    </a>
+    <a href="https://github.com/743859910/743859910/stargazers">
+        <img src="https://img.shields.io/github/stars/743859910/743859910">
+    </a>
+    <a href="https://github.com/743859910/743859910/forks">
+        <img src="https://img.shields.io/github/forks/743859910/743859910">
+    </a>
+    <a href="https://github.com/743859910/743859910/releases">
+        <img src="https://img.shields.io/github/v/release/743859910/743859910">
+    </a>
+    <a href="https://github.com/743859910/743859910/issues">
+        <img src="https://img.shields.io/github/issues/743859910/743859910">
+    </a>
+    <a href="https://github.com/743859910/743859910/pulls">
+        <img src="https://img.shields.io/github/issues-pr/743859910/743859910">
+    </a>
+</p>
+
+---
+
+# Code Rating
+<img align="left" height="180px" width="auto" src="https://github-readme-stats-mu-lilac-56.vercel.app/api?username=743859910&hide_title=false&show_icons=true&line_height=21&icon_color=0078e7&title_color=0078e7&locale=en">
+<img align="center" height="180px" width="auto" src="https://github-readme-stats-mu-lilac-56.vercel.app/api/top-langs/?username=743859910&hide_title=false&show_icons=true&line_height=21&icon_color=0078e7&title_color=0078e7&locale=en">
+<br>
+
+---
+
+# 📊 Weekly Work Status Report
+```text
+摸鱼   🕓 168h0m ██████████████████████████ 100.0%
+干活   🕓 0h0m   ░░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00%
+```
+
+---
+
+# Languages and Frameworks
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/html.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/css.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/javascript.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/nodejs.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/python.png"></code>
+
+---
+
+# Tools
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/git.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/visual-studio-code.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/macos.png"></code>
+
+---
+
+# Interested
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/unity.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/unreal-engine.png"></code>
+
+---
+
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/html.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/css.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/javascript.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/nodejs.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/python.png"></code>
 
 ---
 
