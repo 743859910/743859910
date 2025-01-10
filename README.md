@@ -338,27 +338,16 @@ Here are some ideas to get you started:
 
 ---
 
-# 赞助
-
-<details><summary><strong> [点击展开] 赞赏支持 ~🧧</strong></summary>
-
-*我非常感谢您的赞赏和支持，它们将极大地激励我继续创新，持续产生有价值的工作。*
-
-- *QQ赞赏*
-[点击这里打开QQ赞赏码]()
-
-- *微信赞赏*
-[点击这里打开微信赞赏码]()
-
-- *支付宝赞赏*
-[点击这里打开支付宝赞赏码]()
-
-- *微信赞赏码*
-[点击这里打开微信赞赏码](https://raw.githubusercontent.com/743859910/743859910/2997a7971c3140986b9ffe585f77f6cd78eb39d0/img/WeChat.webp)
+# 赞助🧧
 
 🎁 *您的支持是我不断前进的动力！* 💖
 
-</details>
+<p align="center">
+  <img src="https://raw.gitmirror.com/743859910/743859910/master/img/appreciate.webp">
+  </a>
+</p>
+
+*我非常感谢您的赞赏和支持，它们将极大地激励我继续创新，持续产生有价值的工作。*
 
 ---
 
