@@ -150,6 +150,13 @@ Here are some ideas to get you started:
 
 ![GitHub 统计](https://github-readme-stats.vercel.app/api?username=743859910&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 
+<a href="https://github.com/743859910">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=743859910&layout=compact&theme=dracula&locale=cn" />
+</a>
+<a href="https://github.com/743859910">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=743859910&show_icons=true&theme=dracula&locale=cn" />
+</a>
+
 <table>
     <tr>
         <td >
@@ -353,6 +360,20 @@ Here are some ideas to get you started:
 
 ---
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=chatanywhere/GPT_API_free&type=Date)](https://star-history.com/#chatanywhere/GPT_API_free&Date)
+
+<a href="https://star-history.com/#743859910/743859910&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=743859910/743859910&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=743859910/743859910&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=743859910/743859910&type=Date" />
+  </picture>
+</a>
+
+---
+
 <p align="center">
     <a href="https://github.com/743859910/743859910/blob/main/LICENSE">
         <img src="https://img.shields.io/github/license/743859910/743859910">
@@ -517,7 +538,7 @@ Ultralytics 提供两种许可选项以适应各种用例：
 
 # 开源协议
 
-[MIT License](https://github.com/743859910/743859910/blob/master/LICENSE)
+MIT © [LICENSE](https://github.com/743859910/743859910/blob/master/LICENSE).
 
 Copyright © 2008-2025 Powered by 743859910. Inc. All Rights Reserved. 我只是你的过客工作室. 版权所有
 
