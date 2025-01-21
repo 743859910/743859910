@@ -159,7 +159,14 @@ Here are some ideas to get you started:
 
 ---
 
+# Multilingual
+
+ | [简体中文](./docs/synchronise-chat-logs-cn.md) | [English](./docs/synchronise-chat-logs-en.md) | [Italiano](./docs/synchronise-chat-logs-es.md) | [日本語](./docs/synchronise-chat-logs-ja.md) | [한국어](./docs/synchronise-chat-logs-ko.md) | 
+
+---
+
 # 免责声明：
+
 - 本项目的所有功能都是基于互联网上公开的资料开发，无任何破解、逆向工程等行为。
 - 本项目仅用于学习交流编程技术，严禁将本项目用于商业目的。如有任何商业行为，均与本项目无关。
 - 如果本项目存在侵犯您的合法权益的情况，请及时与开发者联系，开发者将会及时删除有关内容。
@@ -167,6 +174,7 @@ Here are some ideas to get you started:
 ---
 
 # 免责声明：
+
 - 本程序为免费开源项目，旨在分享网盘文件，方便下载以及学习golang，使用时请遵守相关法律法规，请勿滥用；
 - 本程序通过调用官方sdk/接口实现，无破坏官方接口行为；
 - 本程序仅做302重定向/流量转发，不拦截、存储、篡改任何用户数据；
@@ -208,6 +216,10 @@ Ultralytics 提供两种许可选项以适应各种用例：
 ---
 
 # 贡献者
+
+<a href="https://github.com/743859910/743859910/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=743859910/743859910" />
+</a>
 
 ---
 
