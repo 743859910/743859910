@@ -77,15 +77,11 @@ Here are some ideas to get you started:
 
 > 电子邮箱：743859910#qq.com（请自行将#更换为@）
 
-> 我的个人官网 主域名：https://www.*******.cn/ 规划建设中...计划于2025.2.28正式上线运营
+> 我的个人官网 主域名：https://www.*******.cn/ 规划建设中... 计划于2025.2.28正式上线运营
 
-> 我的个人官网 备用域名：https://www.*******.com/ 规划建设中...计划于2025.2.28正式上线运营
+> 我的个人官网 备用域名：https://www.*******.com/ 规划建设中... 计划于2025.2.28正式上线运营
 
-> 我的个人官网 备用域名：https://www.*******.net/ 规划建设中...计划于2025.2.28正式上线运营
-
-> 我的个人官网 备用域名：https://www.*******.org/ 规划建设中...计划于2025.2.28正式上线运营
-
-> 我的个人官网 备用域名：https://www.*******.asia/ 规划建设中...计划于2025.2.28正式上线运营
+> 我的个人官网 备用域名：https://www.*******.net/ 规划建设中... 计划于2025.2.28正式上线运营
 
 ---
 
@@ -161,7 +157,7 @@ Here are some ideas to get you started:
 
 # Multilingual
 
- | [简体中文](./docs/synchronise-chat-logs-cn.md) | [English](./docs/synchronise-chat-logs-en.md) | [Italiano](./docs/synchronise-chat-logs-es.md) | [日本語](./docs/synchronise-chat-logs-ja.md) | [한국어](./docs/synchronise-chat-logs-ko.md) | 
+ | [简体中文](./README-zh-hans.md) | [繁体中文](./README-zh-hant.md) | [English](./README-en.md) | [Italiano](./README-es.md) | [日本語](./README-ja.md) | [한국어](./README-ko.md) | 
 
 ---
 
