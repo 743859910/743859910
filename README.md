@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center"><a href="https://www.743859910.cn"><img src="https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/743859910/master/img/logo.webp" alt="logo" width="300" /></a></p>
+<p align="center"><a href="https://www.743859910.cn"><img src="./img/logo.webp" alt="logo" width="300" /></a></p>
 <p align="center"><b>743859910</b></p>
 <p align="center">
 <a href="https://github.com/743859910/743859910/stars"><img src="https://img.shields.io/github/stars/743859910/743859910?color=yellow"></a>
@@ -118,7 +118,7 @@ Here are some ideas to get you started:
 
 # 📈 GitHub 统计主题
 
-<img src="https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/743859910/master/img/grs-themes.webp" alt="GitHub Readme Stat Themes" width="888px"/>
+<img src="./img/grs-themes.webp" alt="GitHub Readme Stat Themes" width="888px"/>
 
 ---
 
@@ -199,7 +199,7 @@ Ultralytics 提供两种许可选项以适应各种用例：
 🎁 *您的支持是我不断前进的动力！* 💖
 
 <p align="center">
-  <img src="https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/743859910/master/img/appreciate.webp">
+  <img src="./img/appreciate.webp">
   </a>
 </p>
 
@@ -220,27 +220,27 @@ Ultralytics 提供两种许可选项以适应各种用例：
 ---
 
 <p align="center">
-  <img src="https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/743859910/master/img/1.webp">
+  <img src="./img/1.webp">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/743859910/master/img/2.webp">
+  <img src="./img/2.webp">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/743859910/master/img/3.webp">
+  <img src="./img/3.webp">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/743859910/master/img/4.webp">
+  <img src="./img/4.webp">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/743859910/master/img/5.webp">
+  <img src="./img/5.webp">
   </a>
 </p>
 
