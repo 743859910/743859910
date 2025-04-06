@@ -109,6 +109,12 @@ Here are some ideas to get you started:
 
 ---
 
+# Multilingual
+
+ | [简体中文-中国大陆](./README-zh-cn.md) | [繁体中文-中国香港](./README-zh-hk.md) | [繁体中文-中国澳门](./README-zh-mo.md) | [繁体中文-中国台湾](./README-zh-tw.md) | 
+
+---
+
 # 📈 GitHub 统计
 
 | ![GitHub 统计](https://stats.justsong.cn/api/github?username=743859910&show_icons=true&hide_border=true&theme=default&lang=zh-CN) | ![GitHub 统计](https://github-readme-stats.vercel.app/api?username=743859910&show_icons=true&hide_border=true&theme=default) |
@@ -136,7 +142,22 @@ Here are some ideas to get you started:
 
 ---
 
-# stars History
+# ⭐️ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=743859910/743859910&type=Date)](https://star-history.com/#743859910/743859910&Date)
+
+<a href="https://star-history.com/#743859910/743859910&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=743859910/743859910&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=743859910/743859910&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=743859910/743859910&type=Date" />
+  </picture>
+</a>
+
+---
+
+# ⭐️ Star History
+
 <p align='center'>
   <a href="https://github.com/743859910/743859910/stargazers">
     <img src="https://api.star-history.com/svg?repos=743859910/743859910&type=Date">
@@ -145,19 +166,25 @@ Here are some ideas to get you started:
 
 ---
 
-# Star 趋势
+# ⭐️ Star 趋势
 
 [![Star History Chart](https://api.star-history.com/svg?repos=743859910/743859910&type=Timeline)](https://star-history.com/#743859910/743859910&Timeline)
 
-# Star History
+---
 
-[![Stars](https://starchart.cc/743859910/743859910.svg)](https://starchart.cc/743859910/743859910)
+# ⭐️ Star History
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=743859910/743859910&type=Date&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=743859910/743859910&type=Date" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=743859910/743859910&type=Date" />
+</picture>
 
 ---
 
-# Multilingual
+# ⭐️ Star History
 
- | [简体中文](./README-zh-hans.md) | [繁体中文](./README-zh-hant.md) | [English](./README-en.md) | [Italiano](./README-es.md) | [日本語](./README-ja.md) | [한국어](./README-ko.md) | 
+[![Stars](https://starchart.cc/743859910/743859910.svg)](https://starchart.cc/743859910/743859910)
 
 ---
 
@@ -166,11 +193,6 @@ Here are some ideas to get you started:
 - 本项目的所有功能都是基于互联网上公开的资料开发，无任何破解、逆向工程等行为。
 - 本项目仅用于学习交流编程技术，严禁将本项目用于商业目的。如有任何商业行为，均与本项目无关。
 - 如果本项目存在侵犯您的合法权益的情况，请及时与开发者联系，开发者将会及时删除有关内容。
-
----
-
-# 免责声明：
-
 - 本程序为免费开源项目，旨在分享网盘文件，方便下载以及学习golang，使用时请遵守相关法律法规，请勿滥用；
 - 本程序通过调用官方sdk/接口实现，无破坏官方接口行为；
 - 本程序仅做302重定向/流量转发，不拦截、存储、篡改任何用户数据；
