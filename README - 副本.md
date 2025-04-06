@@ -395,3 +395,118 @@ Here are some ideas to get you started:
 </table>
 
 ---
+
+## Features
+- 🔦 dimming your flashlight level by level
+- 🎚 shortcut buttons for different brightness levels
+- 🆘 SOS flash button
+- 📫 morse code flash mode
+- ⏲️ Interval / BPM mode
+- ⚡ quick settings tile for fast access
+- 🔊 press both volume buttons for easy flashlight toggle
+- 🔒 private, no ads, no internet connection
+- 💯 modern Material You (M3) design elements
+- 🎨 app colors adapt to device's system colors
+
+---
+
+## Download
+
+[<img height=80 alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"/>](https://play.google.com/store/apps/details?id=com.cyb3rko.flashdim)
+[<img height="80" alt="Get it on F-Droid" src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"/>](https://f-droid.org/app/com.cyb3rko.flashdim)
+[<img height="80" src="https://accrescent.app/badges/get-it-on.png"/>](https://accrescent.app/app/com.cyb3rko.flashdim)
+[<img height="80" src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"/>](https://github.com/cyb3rko/flashdim/releases/latest)
+
+Google Play and the Google Play logo are trademarks of Google LLC.
+
+---
+
+### Video/Audio Downloader for Android
+
+English
+&nbsp;&nbsp;| &nbsp;&nbsp;
+<a href="./translations/README-zh_Hans.md">简体中文</a>
+&nbsp;&nbsp;| &nbsp;&nbsp;
+<a href="./translations/README-zh_Hant.md">繁體中文</a>
+&nbsp;&nbsp;| &nbsp;&nbsp;
+<a href="./translations/README-ar.md">العربية</a>
+&nbsp;&nbsp;| &nbsp;&nbsp;
+<a href="./translations/README-pt.md">Portuguese</a>
+&nbsp;&nbsp;| &nbsp;&nbsp;
+<a href="./translations/README-ua.md">Українська</a>
+&nbsp;&nbsp;| &nbsp;&nbsp;
+<a href="./translations/README-th.md">ภาษาไทย</a>
+&nbsp;&nbsp;| &nbsp;&nbsp;
+<a href="./translations/README-fa.md">فارسی</a>
+&nbsp;&nbsp;| &nbsp;&nbsp;
+<a href="./translations/README-it.md">Italiano</a>
+&nbsp;&nbsp;| &nbsp;&nbsp;
+<a href="./translations/README-az.md">Azərbaycanca</a>
+&nbsp;&nbsp;| &nbsp;&nbsp;
+<a href="./translations/README-ru.md">Русский</a>
+&nbsp;&nbsp;| &nbsp;&nbsp;
+<a href="./translations/README-sr.md">Српски</a>
+&nbsp;&nbsp;| &nbsp;&nbsp;
+<a href="./translations/README-ja.md">日本語</a>
+&nbsp;&nbsp;| &nbsp;&nbsp;
+<a href="./translations/README-id.md">Indonesia</a>
+&nbsp;&nbsp;| &nbsp;&nbsp;
+<a href="./translations/README-hi.md">हिंदी</a>
+&nbsp;&nbsp;| &nbsp;&nbsp;
+<a href="./translations/README-bn.md">বাংলা</a>
+
+---
+
+## 📖 Features
+
+- Download videos and audio files from video platforms supported by [yt-dlp](https://github.com/yt-dlp/yt-dlp) (formerly youtube-dl).
+
+- Embed metadata and video thumbnail into extracted audio files supported by [mutagen](https://github.com/quodlibet/mutagen).
+
+- Download all videos in the playlist with one click.
+
+- Use embedded [aria2c](https://github.com/aria2/aria2) as external downloader for all your downloads.
+
+- Embed subtitles into the downloaded videos.
+
+- Execute custom yt-dlp commands with templates.
+
+- Manage in-app downloads and custom command templates.
+
+- Easy to use and user-friendly.
+
+- [Material Design 3](https://m3.material.io/) style UI, with dynamic color theme.
+
+- MAD: UI and logic written with pure Kotlin. Single activity, no fragments, only composable destinations.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+You can help translate Seal on [Hosted Weblate](https://hosted.weblate.org/projects/seal/).
+	
+[![Translate status](https://hosted.weblate.org/widgets/seal/-/strings/multi-auto.svg)](https://hosted.weblate.org/engage/seal/)
+	
+>[!Note]
+>
+>For submitting bug reports, feature requests, questions, or any other ideas to improve, please read [CONTRIBUTING.md](https://github.com/JunkFood02/Seal/blob/main/CONTRIBUTING.md) for instructions and guidelines first.
+
+---
+
+## ⭐️ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=JunkFood02/Seal&type=Timeline)](https://star-history.com/#JunkFood02/Seal&Timeline)
+
+---
+
+## Star History
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=cyb3rko/flashdim&type=Date&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=cyb3rko/flashdim&type=Date" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=cyb3rko/flashdim&type=Date" />
+</picture>
+
+---
