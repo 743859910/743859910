@@ -17,22 +17,6 @@ Here are some ideas to get you started:
 
 ---
 
-# 📈 GitHub 账户信息统计
-
-![GitHub 账户信息统计](https://github-stats.ubrong.com/api?username=743859910&show_icons=true&theme=default)
-![GitHub 账户信息统计](https://github-stats.ubrong.com/api?username=743859910&show_icons=true&theme=dark)
-![GitHub 账户信息统计](https://github-stats.ubrong.com/api?username=743859910&show_icons=true&theme=radical)
-![GitHub 账户信息统计](https://github-stats.ubrong.com/api?username=743859910&show_icons=true&theme=merko)
-![GitHub 账户信息统计](https://github-stats.ubrong.com/api?username=743859910&show_icons=true&theme=gruvbox)
-![GitHub 账户信息统计](https://github-stats.ubrong.com/api?username=743859910&show_icons=true&theme=tokyonight)
-![GitHub 账户信息统计](https://github-stats.ubrong.com/api?username=743859910&show_icons=true&theme=onedark)
-![GitHub 账户信息统计](https://github-stats.ubrong.com/api?username=743859910&show_icons=true&theme=cobalt)
-![GitHub 账户信息统计](https://github-stats.ubrong.com/api?username=743859910&show_icons=true&theme=synthwave)
-![GitHub 账户信息统计](https://github-stats.ubrong.com/api?username=743859910&show_icons=true&theme=highcontrast)
-![GitHub 账户信息统计](https://github-stats.ubrong.com/api?username=743859910&show_icons=true&theme=dracula)
-
----
-
 # 📈 GitHub 账户最常用语言
 
 ![GitHub 账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=743859910&layout=compact&theme=tokyonight)
