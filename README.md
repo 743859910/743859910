@@ -77,11 +77,11 @@ Here are some ideas to get you started:
 
 > 电子邮箱：743859910#qq.com（请自行将#更换为@）
 
-> 我的个人官网 主域名：https://www.*******.cn/ 规划建设中...计划于2025.12.31正式上线运营
+> 我的个人官网 主域名：https://www.example.cn/ 规划建设中...计划于2025.12.31正式上线运营
 
-> 我的个人官网 备用域名：https://www.*******.com/ 规划建设中...计划于2025.12.31正式上线运营
+> 我的个人官网 备用域名：https://www.example.com/ 规划建设中...计划于2025.12.31正式上线运营
 
-> 我的个人官网 备用域名：https://www.*******.asia/ 规划建设中...计划于2025.12.31正式上线运营
+> 我的个人官网 备用域名：https://www.example.asia/ 规划建设中...计划于2025.12.31正式上线运营
 
 ---
 
@@ -111,7 +111,8 @@ Here are some ideas to get you started:
 
 # Multilingual
 
- | [简体中文-中国大陆](./README-zh-cn.md) | [繁体中文-中国香港](./README-zh-hk.md) | [繁体中文-中国澳门](./README-zh-mo.md) | [繁体中文-中国台湾](./README-zh-tw.md) | 
+| [简体中文-中国大陆](./README-zh-cn.md) | [繁体中文-中国香港](./README-zh-hk.md) | [繁体中文-中国澳门](./README-zh-mo.md) | [繁体中文-中国台湾](./README-zh-tw.md) |
+| :------------------------------------: | :------------------------------------: | :------------------------------------: | :------------------------------------: |
 
 ---
 
@@ -125,6 +126,22 @@ Here are some ideas to get you started:
 # 📈 GitHub 统计主题
 
 <img src="./img/grs-themes.webp" alt="GitHub Readme Stat Themes" width="888px"/>
+
+---
+
+# 📈 GitHub 账户信息统计
+
+![GitHub 账户信息统计](https://github-stats.ubrong.com/api?username=743859910&show_icons=true&theme=default)
+
+---
+
+|      |      |
+| :--: | :--: |
+| ![GitHub 账户信息统计](https://github-stats.ubrong.com/api?username=743859910&show_icons=true&theme=dark) | ![GitHub 账户信息统计](https://github-stats.ubrong.com/api?username=743859910&show_icons=true&theme=radical) |
+| ![GitHub 账户信息统计](https://github-stats.ubrong.com/api?username=743859910&show_icons=true&theme=merko) | ![GitHub 账户信息统计](https://github-stats.ubrong.com/api?username=743859910&show_icons=true&theme=gruvbox) |
+| ![GitHub 账户信息统计](https://github-stats.ubrong.com/api?username=743859910&show_icons=true&theme=tokyonight) | ![GitHub 账户信息统计](https://github-stats.ubrong.com/api?username=743859910&show_icons=true&theme=onedark) |
+| ![GitHub 账户信息统计](https://github-stats.ubrong.com/api?username=743859910&show_icons=true&theme=cobalt) | ![GitHub 账户信息统计](https://github-stats.ubrong.com/api?username=743859910&show_icons=true&theme=synthwave) |
+| ![GitHub 账户信息统计](https://github-stats.ubrong.com/api?username=743859910&show_icons=true&theme=highcontrast) | ![GitHub 账户信息统计](https://github-stats.ubrong.com/api?username=743859910&show_icons=true&theme=dracula) |
 
 ---
 
