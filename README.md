@@ -235,6 +235,10 @@ Ultralytics 提供两种许可选项以适应各种用例：
 
 # 赞助🧧
 
+贝宝（PayPal）
+支付宝（Alipay）
+微信支付（WeChat Pay）
+
 🎁 *您的支持是我不断前进的动力！* 💖
 
 <p align="center">
