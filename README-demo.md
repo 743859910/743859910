@@ -252,32 +252,32 @@ Here are some ideas to get you started:
 ---
 
 # Languages and Frameworks
-<code><img height="23" src="./img/html.png"></code>
-<code><img height="23" src="./img/css.png"></code>
-<code><img height="23" src="./img/javascript.png"></code>
-<code><img height="23" src="./img/nodejs.png"></code>
-<code><img height="23" src="./img/python.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/html.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/css.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/javascript.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/nodejs.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/python.png"></code>
 
 ---
 
 # Tools
-<code><img height="23" src="./img/git.png"></code>
-<code><img height="23" src="./img/visual-studio-code.png"></code>
-<code><img height="23" src="./img/macos.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/git.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/visual-studio-code.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/macos.png"></code>
 
 ---
 
 # Interested
-<code><img height="23" src="./img/unity.png"></code>
-<code><img height="23" src="./img/unreal-engine.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/unity.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/unreal-engine.png"></code>
 
 ---
 
-<code><img height="23" src="./img/html.png"></code>
-<code><img height="23" src="./img/css.png"></code>
-<code><img height="23" src="./img/javascript.png"></code>
-<code><img height="23" src="./img/nodejs.png"></code>
-<code><img height="23" src="./img/python.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/html.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/css.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/javascript.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/nodejs.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/python.png"></code>
 
 ---
 
