@@ -1,4 +1,5 @@
 # 👋 Hello，World！
+743859910/743859910 是一个 ✨特殊的✨ 存储库，您可以使用它来添加一个README.md到您的 GitHub 配置文件。确保它是公开的，并使用README对其进行初始化以开始使用。
 
 <!--
 **743859910/743859910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
