@@ -252,32 +252,32 @@ Here are some ideas to get you started:
 ---
 
 # Languages and Frameworks
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/html.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/css.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/javascript.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/nodejs.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/python.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/html.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/css.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/javascript.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/nodejs.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/python.png"></code>
 
 ---
 
 # Tools
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/git.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/visual-studio-code.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/macos.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/git.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/visual-studio-code.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/macos.png"></code>
 
 ---
 
 # Interested
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/unity.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/unreal-engine.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/unity.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/unreal-engine.png"></code>
 
 ---
 
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/html.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/css.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/javascript.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/nodejs.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/python.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/html.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/css.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/javascript.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/nodejs.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/python.png"></code>
 
 ---
 
@@ -469,19 +469,19 @@ I support Manchester United 👿 and Barcelona 😎.
 ### 📢 Find me elsewhere
 <p align="left">
   <a href="https://www.codechef.com/users/abhimaira_10">
-    <img src="https://raw.githubusercontent.com/743859910/743859910/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/743859910/743859910/master/img/image/images/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
   <a href="https://leetcode.com/abhishekmaira1999/">
-    <img src="https://raw.githubusercontent.com/743859910/743859910/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/743859910/743859910/master/img/image/images/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.hackerrank.com/abhishekmaira191">
-    <img src="https://raw.githubusercontent.com/743859910/743859910/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/743859910/743859910/master/img/image/images/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
   <a href="https://www.codewars.com/users/abhimaira_10">
-    <img src="https://raw.githubusercontent.com/743859910/743859910/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/743859910/743859910/master/img/image/images/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
   </a> &nbsp;&nbsp;&nbsp;
 </p>
 

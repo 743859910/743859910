@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center"><a href="https://www.743859910.cn"><img src="https://raw.gitmirror.com/743859910/743859910/master/img/logo.webp" alt="logo" width="300" /></a></p>
+<p align="center"><a href="https://www.743859910.cn"><img src="https://raw.gitmirror.com/743859910/743859910/master/logo.webp" alt="logo" width="300" /></a></p>
 <p align="center"><b>743859910</b></p>
 <p align="center">
 <a href="https://github.com/743859910/743859910/stars"><img src="https://img.shields.io/github/stars/743859910/743859910?color=yellow"></a>
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ---
 
-![PayPal](https://img.shields.io/badge/PayPal-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg) [![QQ](https://img.shields.io/badge/QQ-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/743859910/blob/master/img/QQ.webp) [![微信](https://img.shields.io/badge/微信-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/743859910/blob/master/img/WX.webp) [![支付宝](https://img.shields.io/badge/支付宝-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/743859910/blob/master/img/ZFB.webp) [![爱发电](https://img.shields.io/badge/爱发电-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/743859910/blob/master/img/AFD.webp) [![赞赏码](https://img.shields.io/badge/赞赏码-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/743859910/blob/master/img/ZSM.webp) [![数字人民币](https://img.shields.io/badge/数字人民币-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/743859910/blob/master/img/SZRMB.webp)
+![PayPal](https://img.shields.io/badge/PayPal-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg) [![QQ](https://img.shields.io/badge/QQ-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/743859910/blob/master/img/image/images/QQ.webp) [![微信](https://img.shields.io/badge/微信-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/743859910/blob/master/img/image/images/WX.webp) [![支付宝](https://img.shields.io/badge/支付宝-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/743859910/blob/master/img/image/images/ZFB.webp) [![爱发电](https://img.shields.io/badge/爱发电-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/743859910/blob/master/img/image/images/AFD.webp) [![赞赏码](https://img.shields.io/badge/赞赏码-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/743859910/blob/master/img/image/images/ZSM.webp) [![数字人民币](https://img.shields.io/badge/数字人民币-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/743859910/blob/master/img/image/images/SZRMB.webp)
 
 ---
 
@@ -130,7 +130,7 @@ Here are some ideas to get you started:
 
 # 📈 GitHub 统计主题
 
-<img src="https://raw.gitmirror.com/743859910/743859910/master/img/grs-themes.webp" alt="GitHub Readme Stat Themes" width="888px"/>
+<img src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/grs-themes.webp" alt="GitHub Readme Stat Themes" width="888px"/>
 
 ---
 
@@ -247,7 +247,7 @@ Ultralytics 提供两种许可选项以适应各种用例：
 🎁 *您的支持是我不断前进的动力！* 💖
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/743859910/master/img/appreciate.webp">
+  <img src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/appreciate.webp">
   </a>
 </p>
 
@@ -268,27 +268,27 @@ Ultralytics 提供两种许可选项以适应各种用例：
 ---
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/743859910/master/img/1.webp">
+  <img src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/1.webp">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/743859910/master/img/2.webp">
+  <img src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/2.webp">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/743859910/master/img/3.webp">
+  <img src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/3.webp">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/743859910/master/img/4.webp">
+  <img src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/4.webp">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/743859910/master/img/5.webp">
+  <img src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/5.webp">
   </a>
 </p>
 
