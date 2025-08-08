@@ -294,7 +294,7 @@ Ultralytics 提供两种许可选项以适应各种用例：
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/{743859910}/count.svg)
+![name](https://api.likepoems.com/counter/get/@743859910)
 
 ---
 
