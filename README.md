@@ -150,6 +150,16 @@ Here are some ideas to get you started:
 
 ---
 
+# 技术栈
+
+ <p align="left">
+   <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,jquery,less,scss,tailwind,react,nextjs,remix,redux,vue,nuxt,pinia,electron,webpack,vite,npm,yarn,pnpm,md,git,github,java,spring,maven,python,flask,express,nodejs,nestjs,prisma,mysql,redis,vercel,docker,linux,vscode,idea,webstorm,pycharm,postman,ps" />
+   </a>
+ </p>
+
+---
+
 # 🔧 技术与工具
 
 <table>
