@@ -252,32 +252,32 @@ Here are some ideas to get you started:
 ---
 
 # Languages and Frameworks
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/html.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/css.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/javascript.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/nodejs.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/python.png"></code>
+<code><img height="23" src="img/image/images/html.png"></code>
+<code><img height="23" src="img/image/images/css.png"></code>
+<code><img height="23" src="img/image/images/javascript.png"></code>
+<code><img height="23" src="img/image/images/nodejs.png"></code>
+<code><img height="23" src="img/image/images/python.png"></code>
 
 ---
 
 # Tools
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/git.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/visual-studio-code.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/macos.png"></code>
+<code><img height="23" src="img/image/images/git.png"></code>
+<code><img height="23" src="img/image/images/visual-studio-code.png"></code>
+<code><img height="23" src="img/image/images/macos.png"></code>
 
 ---
 
 # Interested
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/unity.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/unreal-engine.png"></code>
+<code><img height="23" src="img/image/images/unity.png"></code>
+<code><img height="23" src="img/image/images/unreal-engine.png"></code>
 
 ---
 
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/html.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/css.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/javascript.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/nodejs.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/743859910/743859910/master/img/image/images/python.png"></code>
+<code><img height="23" src="img/image/images/html.png"></code>
+<code><img height="23" src="img/image/images/css.png"></code>
+<code><img height="23" src="img/image/images/javascript.png"></code>
+<code><img height="23" src="img/image/images/nodejs.png"></code>
+<code><img height="23" src="img/image/images/python.png"></code>
 
 ---
 
