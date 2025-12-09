@@ -304,10 +304,6 @@ Ultralytics 提供两种许可选项以适应各种用例：
 
 ---
 
-![name](https://api.likepoems.com/counter/get/@743859910)
-
----
-
 昵称：我只是你的过客
 
 个性签名：每个人都是每个人的过客
