@@ -78,11 +78,7 @@ Here are some ideas to get you started:
 
 > 电子邮箱：743859910#qq.com（请自行将#更换为@）
 
-> 我的个人官网 主域名：https://www.example.cn/ 规划建设中...计划于2025.12.31正式上线运营
-
-> 我的个人官网 备用域名：https://www.example.com/ 规划建设中...计划于2025.12.31正式上线运营
-
-> 我的个人官网 备用域名：https://www.example.asia/ 规划建设中...计划于2025.12.31正式上线运营
+> 我的个人官网 主域名：https://www.example.cn/ 规划建设中...
 
 ---
 
@@ -314,6 +310,6 @@ Ultralytics 提供两种许可选项以适应各种用例：
 
 [MIT License](https://github.com/743859910/743859910/blob/master/LICENSE)
 
-Copyright © 2008 - 2025 743859910. All Rights Reserved. 我只是你的过客工作室. 版权所有
+Copyright © 2008 - 2026 743859910. All Rights Reserved. 我只是你的过客工作室. 版权所有
 
 ---
